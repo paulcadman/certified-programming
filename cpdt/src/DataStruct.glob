@@ -1,0 +1,1943 @@
+DIGEST 5bf31f97c6165d461cc90a8f14972f2d
+FCpdt.DataStruct
+R305:309 Coq.Arith.Arith <> <> lib
+R311:314 Coq.Lists.List <> <> lib
+R333:348 Cpdt.CpdtTactics <> <> lib
+sec 1186:1190 <> ilist
+var 1204:1204 ilist A
+ind 1226:1230 <> ilist
+constr 1252:1254 <> Nil
+constr 1270:1273 <> Cons
+R1237:1240 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R1234:1236 Coq.Init.Datatypes <> nat ind
+R1258:1262 Cpdt.DataStruct <> ilist ind
+R1264:1264 Coq.Init.Datatypes <> O constr
+R1288:1291 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R1299:1302 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R1303:1307 Cpdt.DataStruct <> ilist ind
+R1310:1310 Coq.Init.Datatypes <> S constr
+R1312:1312 Cpdt.DataStruct <> n var
+R1292:1296 Cpdt.DataStruct <> ilist ind
+R1298:1298 Cpdt.DataStruct <> n var
+R1287:1287 Cpdt.DataStruct <> ilist.A var
+ind 1826:1828 <> fin
+constr 1850:1854 <> First
+constr 1882:1885 <> Next
+R1835:1838 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R1832:1834 Coq.Init.Datatypes <> nat ind
+R1868:1870 Cpdt.DataStruct <> fin ind
+R1873:1873 Coq.Init.Datatypes <> S constr
+R1875:1875 Cpdt.DataStruct <> n var
+R1904:1907 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R1908:1910 Cpdt.DataStruct <> fin ind
+R1913:1913 Coq.Init.Datatypes <> S constr
+R1915:1915 Cpdt.DataStruct <> n var
+R1899:1901 Cpdt.DataStruct <> fin ind
+R1903:1903 Cpdt.DataStruct <> n var
+def 6537:6539 <> get
+R6549:6553 Cpdt.DataStruct <> ilist ind
+R6555:6555 Cpdt.DataStruct <> n var
+R6565:6568 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R6569:6569 Cpdt.DataStruct <> ilist.A var
+R6560:6562 Cpdt.DataStruct <> fin ind
+R6564:6564 Cpdt.DataStruct <> n var
+R6584:6585 Cpdt.DataStruct <> ls var
+R6600:6602 Cpdt.DataStruct <> Nil constr
+R6632:6634 Cpdt.DataStruct <> idx var
+R6639:6641 Cpdt.DataStruct <> fin ind
+R6660:6661 Cpdt.DataStruct <> n' var
+R6710:6710 Coq.Init.Datatypes <> O constr
+R6715:6715 Cpdt.DataStruct <> ilist.A var
+R6759:6759 Coq.Init.Datatypes <> S constr
+R6766:6769 Coq.Init.Datatypes <> unit ind
+R6831:6835 Cpdt.DataStruct <> First constr
+R6842:6843 Coq.Init.Datatypes <> tt constr
+R6857:6860 Cpdt.DataStruct <> Next constr
+R6869:6870 Coq.Init.Datatypes <> tt constr
+R6892:6895 Cpdt.DataStruct <> Cons constr
+R6933:6935 Cpdt.DataStruct <> idx var
+R6940:6942 Cpdt.DataStruct <> fin ind
+R6954:6954 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R6973:6977 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R6978:6978 Cpdt.DataStruct <> ilist.A var
+R6968:6971 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R6972:6972 Cpdt.DataStruct <> ilist.A var
+R6955:6957 Cpdt.DataStruct <> fin ind
+R6960:6963 Coq.Init.Peano <> pred syndef
+R6965:6966 Cpdt.DataStruct <> n' var
+R6997:7001 Cpdt.DataStruct <> First constr
+R7031:7034 Cpdt.DataStruct <> Next constr
+R7061:7067 Cpdt.DataStruct <> get_ls' var
+R7087:7089 Cpdt.DataStruct <> get def
+R7125:7129 Cpdt.DataStruct ilist <> sec
+R7143:7145 Cpdt.DataStruct <> Nil constr
+R7143:7145 Cpdt.DataStruct <> Nil constr
+R7162:7166 Cpdt.DataStruct <> First constr
+R7162:7166 Cpdt.DataStruct <> First constr
+R7246:7249 Cpdt.DataStruct <> Cons constr
+R7254:7257 Cpdt.DataStruct <> Cons constr
+R7262:7265 Cpdt.DataStruct <> Cons constr
+R7269:7271 Cpdt.DataStruct <> Nil constr
+R7390:7392 Cpdt.DataStruct <> get def
+R7425:7429 Cpdt.DataStruct <> First constr
+R7395:7398 Cpdt.DataStruct <> Cons constr
+R7403:7406 Cpdt.DataStruct <> Cons constr
+R7411:7414 Cpdt.DataStruct <> Cons constr
+R7418:7420 Cpdt.DataStruct <> Nil constr
+R7498:7500 Cpdt.DataStruct <> get def
+R7534:7537 Cpdt.DataStruct <> Next constr
+R7539:7543 Cpdt.DataStruct <> First constr
+R7503:7506 Cpdt.DataStruct <> Cons constr
+R7511:7514 Cpdt.DataStruct <> Cons constr
+R7519:7522 Cpdt.DataStruct <> Cons constr
+R7526:7528 Cpdt.DataStruct <> Nil constr
+R7613:7615 Cpdt.DataStruct <> get def
+R7649:7652 Cpdt.DataStruct <> Next constr
+R7655:7658 Cpdt.DataStruct <> Next constr
+R7660:7664 Cpdt.DataStruct <> First constr
+R7618:7621 Cpdt.DataStruct <> Cons constr
+R7626:7629 Cpdt.DataStruct <> Cons constr
+R7634:7637 Cpdt.DataStruct <> Cons constr
+R7641:7643 Cpdt.DataStruct <> Nil constr
+def 7783:7786 <> map'
+R7791:7793 Coq.Lists.List <> map def
+sec 7979:7987 <> ilist_map
+var 8002:8002 ilist_map A
+var 8004:8004 ilist_map B
+var 8024:8024 ilist_map f
+R8029:8032 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R8033:8033 Cpdt.DataStruct <> ilist_map.B var
+R8028:8028 Cpdt.DataStruct <> ilist_map.A var
+def 8048:8051 <> imap
+R8061:8065 Cpdt.DataStruct <> ilist ind
+R8069:8069 Cpdt.DataStruct <> n var
+R8067:8067 Cpdt.DataStruct <> ilist_map.A var
+R8074:8078 Cpdt.DataStruct <> ilist ind
+R8082:8082 Cpdt.DataStruct <> n var
+R8080:8080 Cpdt.DataStruct <> ilist_map.B var
+R8097:8098 Cpdt.DataStruct <> ls var
+R8113:8115 Cpdt.DataStruct <> Nil constr
+R8120:8122 Cpdt.DataStruct <> Nil constr
+R8132:8135 Cpdt.DataStruct <> Cons constr
+R8148:8151 Cpdt.DataStruct <> Cons constr
+R8160:8163 Cpdt.DataStruct <> imap def
+R8154:8154 Cpdt.DataStruct <> ilist_map.f var
+prf 8335:8342 <> get_imap
+R8362:8364 Cpdt.DataStruct <> fin ind
+R8366:8366 Cpdt.DataStruct <> n var
+R8375:8379 Cpdt.DataStruct <> ilist ind
+R8383:8383 Cpdt.DataStruct <> n var
+R8381:8381 Cpdt.DataStruct <> ilist_map.A var
+R8408:8410 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R8391:8393 Cpdt.DataStruct <> get def
+R8405:8407 Cpdt.DataStruct <> idx var
+R8396:8399 Cpdt.DataStruct <> imap def
+R8401:8402 Cpdt.DataStruct <> ls var
+R8411:8411 Cpdt.DataStruct <> ilist_map.f var
+R8414:8416 Cpdt.DataStruct <> get def
+R8421:8423 Cpdt.DataStruct <> idx var
+R8418:8419 Cpdt.DataStruct <> ls var
+R8497:8505 Cpdt.DataStruct ilist_map <> sec
+sec 9189:9193 <> hlist
+var 9207:9207 hlist A
+var 9228:9228 hlist B
+R9233:9236 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R9232:9232 Cpdt.DataStruct <> hlist.A var
+ind 9562:9566 <> hlist
+constr 9592:9595 <> HNil
+constr 9613:9617 <> HCons
+R9576:9579 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R9570:9573 Coq.Init.Datatypes <> list ind
+R9575:9575 Cpdt.DataStruct <> hlist.A var
+R9599:9603 Cpdt.DataStruct <> hlist ind
+R9605:9607 Coq.Init.Datatypes <> nil constr
+R9633:9633 Cpdt.DataStruct <> hlist.A var
+R9642:9645 Coq.Init.Datatypes <> list ind
+R9647:9647 Cpdt.DataStruct <> hlist.A var
+R9654:9657 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R9666:9669 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R9670:9674 Cpdt.DataStruct <> hlist ind
+R9678:9681 Coq.Init.Datatypes <> ::list_scope:x_'::'_x not
+R9677:9677 Cpdt.DataStruct <> x var
+R9682:9683 Cpdt.DataStruct <> ls var
+R9658:9662 Cpdt.DataStruct <> hlist ind
+R9664:9665 Cpdt.DataStruct <> ls var
+R9651:9651 Cpdt.DataStruct <> hlist.B var
+R9653:9653 Cpdt.DataStruct <> x var
+var 10059:10061 hlist elm
+R10065:10065 Cpdt.DataStruct <> hlist.A var
+ind 10081:10086 <> member
+constr 10112:10117 <> HFirst
+constr 10155:10159 <> HNext
+R10096:10099 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R10090:10093 Coq.Init.Datatypes <> list ind
+R10095:10095 Cpdt.DataStruct <> hlist.A var
+R10132:10137 Cpdt.DataStruct <> member ind
+R10143:10146 Coq.Init.Datatypes <> ::list_scope:x_'::'_x not
+R10140:10142 Cpdt.DataStruct <> hlist.elm var
+R10147:10148 Cpdt.DataStruct <> ls var
+R10185:10188 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R10189:10194 Cpdt.DataStruct <> member ind
+R10198:10201 Coq.Init.Datatypes <> ::list_scope:x_'::'_x not
+R10197:10197 Cpdt.DataStruct <> x var
+R10202:10203 Cpdt.DataStruct <> ls var
+R10176:10181 Cpdt.DataStruct <> member ind
+R10183:10184 Cpdt.DataStruct <> ls var
+def 11163:11166 <> hget
+R11178:11182 Cpdt.DataStruct <> hlist ind
+R11184:11185 Cpdt.DataStruct <> ls var
+R11199:11202 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R11203:11203 Cpdt.DataStruct <> hlist.B var
+R11205:11207 Cpdt.DataStruct <> hlist.elm var
+R11190:11195 Cpdt.DataStruct <> member ind
+R11197:11198 Cpdt.DataStruct <> ls var
+R11222:11224 Cpdt.DataStruct <> mls var
+R11239:11242 Cpdt.DataStruct <> HNil constr
+R11272:11274 Cpdt.DataStruct <> mem var
+R11279:11284 Cpdt.DataStruct <> member ind
+R11304:11306 Cpdt.DataStruct <> ls' var
+R11357:11359 Coq.Init.Datatypes <> nil constr
+R11364:11364 Cpdt.DataStruct <> hlist.B var
+R11366:11368 Cpdt.DataStruct <> hlist.elm var
+R11415:11418 Coq.Init.Datatypes <> ::list_scope:x_'::'_x not
+R11424:11427 Coq.Init.Datatypes <> unit ind
+R11491:11496 Cpdt.DataStruct <> HFirst constr
+R11503:11504 Coq.Init.Datatypes <> tt constr
+R11518:11522 Cpdt.DataStruct <> HNext constr
+R11533:11534 Coq.Init.Datatypes <> tt constr
+R11556:11560 Cpdt.DataStruct <> HCons constr
+R11601:11603 Cpdt.DataStruct <> mem var
+R11608:11613 Cpdt.DataStruct <> member ind
+R11633:11635 Cpdt.DataStruct <> ls' var
+R11686:11688 Coq.Init.Datatypes <> nil constr
+R11693:11701 Coq.Init.Datatypes <> Empty_set ind
+R11749:11752 Coq.Init.Datatypes <> ::list_scope:x_'::'_x not
+R11809:11812 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R11813:11813 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R11834:11882 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R11883:11883 Cpdt.DataStruct <> hlist.B var
+R11885:11887 Cpdt.DataStruct <> hlist.elm var
+R11825:11828 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R11829:11829 Cpdt.DataStruct <> hlist.B var
+R11831:11833 Cpdt.DataStruct <> hlist.elm var
+R11814:11819 Cpdt.DataStruct <> member ind
+R11805:11805 Cpdt.DataStruct <> hlist.B var
+R11951:11956 Cpdt.DataStruct <> HFirst constr
+R11974:11974 Cpdt.DataStruct <> x var
+R11988:11992 Cpdt.DataStruct <> HNext constr
+R12024:12031 Cpdt.DataStruct <> get_mls' var
+R12053:12056 Cpdt.DataStruct <> hget def
+R12093:12097 Cpdt.DataStruct hlist <> sec
+R12129:12132 Cpdt.DataStruct <> HNil constr
+R12129:12132 Cpdt.DataStruct <> HNil constr
+R12151:12155 Cpdt.DataStruct <> HCons constr
+R12151:12155 Cpdt.DataStruct <> HCons constr
+R12184:12189 Cpdt.DataStruct <> HFirst constr
+R12184:12189 Cpdt.DataStruct <> HFirst constr
+R12213:12217 Cpdt.DataStruct <> HNext constr
+R12213:12217 Cpdt.DataStruct <> HNext constr
+def 12502:12510 <> someTypes
+R12514:12517 Coq.Init.Datatypes <> list ind
+R12529:12532 Coq.Init.Datatypes <> ::list_scope:x_'::'_x not
+R12526:12528 Coq.Init.Datatypes <> nat ind
+R12537:12540 Coq.Init.Datatypes <> ::list_scope:x_'::'_x not
+R12533:12536 Coq.Init.Datatypes <> bool ind
+R12541:12543 Coq.Init.Datatypes <> nil constr
+def 12574:12583 <> someValues
+R12587:12591 Cpdt.DataStruct <> hlist ind
+R12612:12620 Cpdt.DataStruct <> someTypes def
+R12609:12609 Cpdt.DataStruct <> T var
+R12627:12631 Cpdt.DataStruct <> HCons constr
+R12636:12640 Cpdt.DataStruct <> HCons constr
+R12647:12650 Cpdt.DataStruct <> HNil constr
+R12642:12645 Coq.Init.Datatypes <> true constr
+R12669:12672 Cpdt.DataStruct <> hget def
+R12685:12690 Cpdt.DataStruct <> HFirst constr
+R12674:12683 Cpdt.DataStruct <> someValues ex
+R12778:12781 Cpdt.DataStruct <> hget def
+R12795:12799 Cpdt.DataStruct <> HNext constr
+R12801:12806 Cpdt.DataStruct <> HFirst constr
+R12783:12792 Cpdt.DataStruct <> someValues ex
+def 12955:12963 <> somePairs
+R12967:12971 Cpdt.DataStruct <> hlist ind
+R13001:13009 Cpdt.DataStruct <> someTypes def
+R12990:12992 Coq.Init.Datatypes <> ::type_scope:x_'*'_x not
+R12989:12989 Cpdt.DataStruct <> T var
+R12993:12993 Cpdt.DataStruct <> T var
+R13016:13020 Cpdt.DataStruct <> HCons constr
+R13030:13034 Cpdt.DataStruct <> HCons constr
+R13050:13053 Cpdt.DataStruct <> HNil constr
+R13036:13036 Coq.Init.Datatypes <> ::core_scope:'('_x_','_x_','_'..'_','_x_')' not
+R13041:13042 Coq.Init.Datatypes <> ::core_scope:'('_x_','_x_','_'..'_','_x_')' not
+R13048:13048 Coq.Init.Datatypes <> ::core_scope:'('_x_','_x_','_'..'_','_x_')' not
+R13037:13040 Coq.Init.Datatypes <> true constr
+R13043:13047 Coq.Init.Datatypes <> false constr
+R13022:13022 Coq.Init.Datatypes <> ::core_scope:'('_x_','_x_','_'..'_','_x_')' not
+R13024:13025 Coq.Init.Datatypes <> ::core_scope:'('_x_','_x_','_'..'_','_x_')' not
+R13027:13027 Coq.Init.Datatypes <> ::core_scope:'('_x_','_x_','_'..'_','_x_')' not
+ind 13754:13757 <> type
+constr 13770:13773 <> Unit
+constr 13784:13788 <> Arrow
+R13777:13780 Cpdt.DataStruct <> type ind
+R13796:13799 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R13804:13807 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R13808:13811 Cpdt.DataStruct <> type ind
+R13800:13803 Cpdt.DataStruct <> type ind
+R13792:13795 Cpdt.DataStruct <> type ind
+ind 14242:14244 <> exp
+constr 14278:14282 <> Const
+constr 14329:14331 <> Var
+constr 14374:14376 <> App
+constr 14452:14454 <> Abs
+R14257:14260 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R14265:14268 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R14261:14264 Cpdt.DataStruct <> type ind
+R14248:14251 Coq.Init.Datatypes <> list ind
+R14253:14256 Cpdt.DataStruct <> type ind
+R14297:14299 Cpdt.DataStruct <> exp ind
+R14304:14307 Cpdt.DataStruct <> Unit constr
+R14301:14302 Cpdt.DataStruct <> ts var
+R14359:14362 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R14363:14365 Cpdt.DataStruct <> exp ind
+R14370:14370 Cpdt.DataStruct <> t var
+R14367:14368 Cpdt.DataStruct <> ts var
+R14348:14353 Cpdt.DataStruct <> member ind
+R14357:14358 Cpdt.DataStruct <> ts var
+R14355:14355 Cpdt.DataStruct <> t var
+R14421:14424 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R14435:14438 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R14439:14441 Cpdt.DataStruct <> exp ind
+R14446:14448 Cpdt.DataStruct <> ran var
+R14443:14444 Cpdt.DataStruct <> ts var
+R14425:14427 Cpdt.DataStruct <> exp ind
+R14432:14434 Cpdt.DataStruct <> dom var
+R14429:14430 Cpdt.DataStruct <> ts var
+R14399:14401 Cpdt.DataStruct <> exp ind
+R14407:14411 Cpdt.DataStruct <> Arrow constr
+R14417:14419 Cpdt.DataStruct <> ran var
+R14413:14415 Cpdt.DataStruct <> dom var
+R14403:14404 Cpdt.DataStruct <> ts var
+R14496:14499 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R14500:14502 Cpdt.DataStruct <> exp ind
+R14508:14512 Cpdt.DataStruct <> Arrow constr
+R14518:14520 Cpdt.DataStruct <> ran var
+R14514:14516 Cpdt.DataStruct <> dom var
+R14504:14505 Cpdt.DataStruct <> ts var
+R14477:14479 Cpdt.DataStruct <> exp ind
+R14493:14495 Cpdt.DataStruct <> ran var
+R14485:14488 Coq.Init.Datatypes <> ::list_scope:x_'::'_x not
+R14482:14484 Cpdt.DataStruct <> dom var
+R14489:14490 Cpdt.DataStruct <> ts var
+R14551:14555 Cpdt.DataStruct <> Const constr
+R14551:14555 Cpdt.DataStruct <> Const constr
+def 14652:14661 <> typeDenote
+R14668:14671 Cpdt.DataStruct <> type ind
+R14691:14691 Cpdt.DataStruct <> t var
+R14704:14707 Cpdt.DataStruct <> Unit constr
+R14712:14715 Coq.Init.Datatypes <> unit ind
+R14723:14727 Cpdt.DataStruct <> Arrow constr
+R14751:14754 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R14755:14764 Cpdt.DataStruct <> typeDenote def
+R14738:14747 Cpdt.DataStruct <> typeDenote def
+def 15387:15395 <> expDenote
+R15407:15409 Cpdt.DataStruct <> exp ind
+R15414:15414 Cpdt.DataStruct <> t var
+R15411:15412 Cpdt.DataStruct <> ts var
+R15438:15441 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R15442:15451 Cpdt.DataStruct <> typeDenote def
+R15453:15453 Cpdt.DataStruct <> t var
+R15419:15423 Cpdt.DataStruct <> hlist ind
+R15436:15437 Cpdt.DataStruct <> ts var
+R15425:15434 Cpdt.DataStruct <> typeDenote def
+R15466:15466 Cpdt.DataStruct <> e var
+R15479:15483 Cpdt.DataStruct <> Const constr
+R15499:15500 Coq.Init.Datatypes <> tt constr
+R15509:15511 Cpdt.DataStruct <> Var constr
+R15533:15536 Cpdt.DataStruct <> hget def
+R15538:15538 Cpdt.DataStruct <> s var
+R15550:15552 Cpdt.DataStruct <> App constr
+R15579:15587 Cpdt.DataStruct <> expDenote def
+R15592:15592 Cpdt.DataStruct <> s var
+R15596:15604 Cpdt.DataStruct <> expDenote def
+R15609:15609 Cpdt.DataStruct <> s var
+R15618:15620 Cpdt.DataStruct <> Abs constr
+R15652:15660 Cpdt.DataStruct <> expDenote def
+R15666:15670 Cpdt.DataStruct <> HCons constr
+R15674:15674 Cpdt.DataStruct <> s var
+R15672:15672 Cpdt.DataStruct <> x var
+R15780:15788 Cpdt.DataStruct <> expDenote def
+R15796:15799 Cpdt.DataStruct <> HNil constr
+R15790:15794 Cpdt.DataStruct <> Const constr
+R15880:15888 Cpdt.DataStruct <> expDenote def
+R15923:15926 Cpdt.DataStruct <> HNil constr
+R15891:15893 Cpdt.DataStruct <> Abs constr
+R15910:15912 Cpdt.DataStruct <> Var constr
+R15914:15919 Cpdt.DataStruct <> HFirst constr
+R15903:15906 Cpdt.DataStruct <> Unit constr
+R16036:16044 Cpdt.DataStruct <> expDenote def
+R16109:16112 Cpdt.DataStruct <> HNil constr
+R16047:16049 Cpdt.DataStruct <> Abs constr
+R16068:16070 Cpdt.DataStruct <> Abs constr
+R16087:16089 Cpdt.DataStruct <> Var constr
+R16092:16096 Cpdt.DataStruct <> HNext constr
+R16098:16103 Cpdt.DataStruct <> HFirst constr
+R16080:16083 Cpdt.DataStruct <> Unit constr
+R16059:16062 Cpdt.DataStruct <> Unit constr
+R16237:16245 Cpdt.DataStruct <> expDenote def
+R16300:16303 Cpdt.DataStruct <> HNil constr
+R16248:16250 Cpdt.DataStruct <> Abs constr
+R16267:16269 Cpdt.DataStruct <> Abs constr
+R16286:16288 Cpdt.DataStruct <> Var constr
+R16290:16295 Cpdt.DataStruct <> HFirst constr
+R16279:16282 Cpdt.DataStruct <> Unit constr
+R16260:16263 Cpdt.DataStruct <> Unit constr
+R16430:16438 Cpdt.DataStruct <> expDenote def
+R16471:16474 Cpdt.DataStruct <> HNil constr
+R16441:16443 Cpdt.DataStruct <> App constr
+R16464:16468 Cpdt.DataStruct <> Const constr
+R16446:16448 Cpdt.DataStruct <> Abs constr
+R16451:16453 Cpdt.DataStruct <> Var constr
+R16455:16460 Cpdt.DataStruct <> HFirst constr
+sec 17814:17819 <> filist
+var 17833:17833 filist A
+def 17872:17877 <> filist
+R17884:17886 Coq.Init.Datatypes <> nat ind
+R17908:17908 Cpdt.DataStruct <> n var
+R17923:17923 Coq.Init.Datatypes <> O constr
+R17928:17931 Coq.Init.Datatypes <> unit ind
+R17941:17941 Coq.Init.Datatypes <> S constr
+R17950:17952 Coq.Init.Datatypes <> ::type_scope:x_'*'_x not
+R17949:17949 Cpdt.DataStruct <> filist.A var
+R17953:17958 Cpdt.DataStruct <> filist def
+def 18128:18131 <> ffin
+R18138:18140 Coq.Init.Datatypes <> nat ind
+R18162:18162 Cpdt.DataStruct <> n var
+R18177:18177 Coq.Init.Datatypes <> O constr
+R18182:18190 Coq.Init.Datatypes <> Empty_set ind
+R18200:18200 Coq.Init.Datatypes <> S constr
+R18208:18213 Coq.Init.Datatypes <> option ind
+R18216:18219 Cpdt.DataStruct <> ffin def
+def 18681:18684 <> fget
+R18691:18693 Coq.Init.Datatypes <> nat ind
+R18706:18709 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R18716:18719 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R18720:18720 Cpdt.DataStruct <> filist.A var
+R18710:18713 Cpdt.DataStruct <> ffin def
+R18715:18715 Cpdt.DataStruct <> n var
+R18698:18703 Cpdt.DataStruct <> filist def
+R18705:18705 Cpdt.DataStruct <> n var
+R18735:18735 Cpdt.DataStruct <> n var
+R18750:18750 Coq.Init.Datatypes <> O constr
+R18774:18776 Cpdt.DataStruct <> idx var
+R18795:18795 Coq.Init.Datatypes <> S constr
+R18831:18833 Cpdt.DataStruct <> idx var
+R18852:18855 Coq.Init.Datatypes <> None constr
+R18860:18862 Coq.Init.Datatypes <> fst def
+R18864:18865 Cpdt.DataStruct <> ls var
+R18879:18882 Coq.Init.Datatypes <> Some constr
+R18892:18895 Cpdt.DataStruct <> fget def
+R18901:18903 Coq.Init.Datatypes <> snd def
+R18905:18906 Cpdt.DataStruct <> ls var
+R19191:19196 Cpdt.DataStruct filist <> sec
+sec 19434:19439 <> fhlist
+var 19453:19453 fhlist A
+var 19474:19474 fhlist B
+R19479:19482 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R19478:19478 Cpdt.DataStruct <> fhlist.A var
+def 19519:19524 <> fhlist
+R19532:19535 Coq.Init.Datatypes <> list ind
+R19537:19537 Cpdt.DataStruct <> fhlist.A var
+R19560:19561 Cpdt.DataStruct <> ls var
+R19576:19578 Coq.Init.Datatypes <> nil constr
+R19583:19586 Coq.Init.Datatypes <> unit ind
+R19597:19600 Coq.Init.Datatypes <> ::list_scope:x_'::'_x not
+R19611:19613 Coq.Init.Datatypes <> ::type_scope:x_'*'_x not
+R19608:19608 Cpdt.DataStruct <> fhlist.B var
+R19614:19619 Cpdt.DataStruct <> fhlist def
+var 19783:19785 fhlist elm
+R19789:19789 Cpdt.DataStruct <> fhlist.A var
+def 19804:19810 <> fmember
+R19818:19821 Coq.Init.Datatypes <> list ind
+R19823:19823 Cpdt.DataStruct <> fhlist.A var
+R19846:19847 Cpdt.DataStruct <> ls var
+R19862:19864 Coq.Init.Datatypes <> nil constr
+R19869:19877 Coq.Init.Datatypes <> Empty_set ind
+R19888:19891 Coq.Init.Datatypes <> ::list_scope:x_'::'_x not
+R19899:19899 Coq.Init.Datatypes <> ::type_scope:x_'+'_x not
+R19907:19910 Coq.Init.Datatypes <> ::type_scope:x_'+'_x not
+R19901:19903 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R19904:19906 Cpdt.DataStruct <> fhlist.elm var
+R19911:19917 Cpdt.DataStruct <> fmember def
+def 21179:21183 <> fhget
+R21191:21194 Coq.Init.Datatypes <> list ind
+R21196:21196 Cpdt.DataStruct <> fhlist.A var
+R21210:21213 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R21224:21227 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R21228:21228 Cpdt.DataStruct <> fhlist.B var
+R21230:21232 Cpdt.DataStruct <> fhlist.elm var
+R21214:21220 Cpdt.DataStruct <> fmember def
+R21222:21223 Cpdt.DataStruct <> ls var
+R21201:21206 Cpdt.DataStruct <> fhlist def
+R21208:21209 Cpdt.DataStruct <> ls var
+R21247:21248 Cpdt.DataStruct <> ls var
+R21263:21265 Coq.Init.Datatypes <> nil constr
+R21289:21291 Cpdt.DataStruct <> idx var
+R21311:21314 Coq.Init.Datatypes <> ::list_scope:x_'::'_x not
+R21351:21353 Cpdt.DataStruct <> idx var
+R21372:21374 Coq.Init.Datatypes <> inl constr
+R21422:21428 Coq.Init.Logic <> eq_refl constr
+R21433:21435 Coq.Init.Datatypes <> fst def
+R21437:21439 Cpdt.DataStruct <> mls var
+R21479:21481 Coq.Init.Datatypes <> inr constr
+R21491:21495 Cpdt.DataStruct <> fhget def
+R21502:21504 Coq.Init.Datatypes <> snd def
+R21506:21508 Cpdt.DataStruct <> mls var
+def 21773:21775 <> foo
+R21781:21787 Coq.Init.Logic <> eq_refl constr
+R21834:21835 Coq.Init.Logic <> eq ind
+R22263:22268 Cpdt.DataStruct fhlist <> sec
+R22282:22286 Cpdt.DataStruct <> fhget def
+R22282:22286 Cpdt.DataStruct <> fhget def
+def 22822:22832 <> red_herring
+R22837:22837 Coq.Init.Datatypes <> O constr
+sec 22903:22906 <> tree
+var 22920:22920 tree A
+ind 22942:22945 <> tree
+constr 22960:22963 <> Leaf
+constr 22981:22984 <> Node
+R22968:22971 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R22972:22975 Cpdt.DataStruct <> tree ind
+R22967:22967 Cpdt.DataStruct <> tree.A var
+R23010:23013 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R23014:23017 Cpdt.DataStruct <> tree ind
+R22998:23002 Cpdt.DataStruct <> ilist ind
+R23009:23009 Cpdt.DataStruct <> n var
+R23004:23007 Cpdt.DataStruct <> tree ind
+R23024:23027 Cpdt.DataStruct tree <> sec
+sec 23360:23365 <> ifoldr
+var 23380:23380 ifoldr A
+var 23382:23382 ifoldr B
+var 23402:23402 ifoldr f
+R23407:23410 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R23412:23415 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R23416:23416 Cpdt.DataStruct <> ifoldr.B var
+R23411:23411 Cpdt.DataStruct <> ifoldr.B var
+R23406:23406 Cpdt.DataStruct <> ifoldr.A var
+var 23430:23430 ifoldr i
+R23434:23434 Cpdt.DataStruct <> ifoldr.B var
+def 23449:23454 <> ifoldr
+R23464:23468 Cpdt.DataStruct <> ilist ind
+R23472:23472 Cpdt.DataStruct <> n var
+R23470:23470 Cpdt.DataStruct <> ifoldr.A var
+R23477:23477 Cpdt.DataStruct <> ifoldr.B var
+R23492:23493 Cpdt.DataStruct <> ls var
+R23508:23510 Cpdt.DataStruct <> Nil constr
+R23515:23515 Cpdt.DataStruct <> ifoldr.i var
+R23525:23528 Cpdt.DataStruct <> Cons constr
+R23541:23541 Cpdt.DataStruct <> ifoldr.f var
+R23546:23551 Cpdt.DataStruct <> ifoldr def
+R23571:23576 Cpdt.DataStruct ifoldr <> sec
+def 23589:23591 <> sum
+R23598:23601 Cpdt.DataStruct <> tree ind
+R23603:23605 Coq.Init.Datatypes <> nat ind
+R23610:23612 Coq.Init.Datatypes <> nat ind
+R23625:23625 Cpdt.DataStruct <> t var
+R23638:23641 Cpdt.DataStruct <> Leaf constr
+R23656:23659 Cpdt.DataStruct <> Node constr
+R23669:23674 Cpdt.DataStruct <> ifoldr def
+R23701:23701 Coq.Init.Datatypes <> O constr
+R23695:23697 Coq.Init.Peano <> ::nat_scope:x_'+'_x not
+R23689:23691 Cpdt.DataStruct <> sum def
+R23693:23694 Cpdt.DataStruct <> t' var
+R23698:23698 Cpdt.DataStruct <> n var
+def 23723:23725 <> inc
+R23732:23735 Cpdt.DataStruct <> tree ind
+R23737:23739 Coq.Init.Datatypes <> nat ind
+R23744:23747 Cpdt.DataStruct <> tree ind
+R23749:23751 Coq.Init.Datatypes <> nat ind
+R23764:23764 Cpdt.DataStruct <> t var
+R23777:23780 Cpdt.DataStruct <> Leaf constr
+R23787:23790 Cpdt.DataStruct <> Leaf constr
+R23793:23793 Coq.Init.Datatypes <> S constr
+R23804:23807 Cpdt.DataStruct <> Node constr
+R23817:23820 Cpdt.DataStruct <> Node constr
+R23823:23826 Cpdt.DataStruct <> imap def
+R23828:23830 Cpdt.DataStruct <> inc def
+prf 23932:23938 <> sum_inc
+R23963:23966 Coq.Init.Peano <> ::nat_scope:x_'>='_x not
+R23952:23954 Cpdt.DataStruct <> sum def
+R23957:23959 Cpdt.DataStruct <> inc def
+R23961:23961 Cpdt.DataStruct <> t var
+R23967:23969 Cpdt.DataStruct <> sum def
+R23971:23971 Cpdt.DataStruct <> t var
+R24441:24448 Cpdt.DataStruct <> tree_ind scheme
+R8497:8505 Cpdt.DataStruct ilist_map <> sec
+sec 9189:9193 <> hlist
+var 9207:9207 hlist A
+var 9228:9228 hlist B
+R9233:9236 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R9232:9232 Cpdt.DataStruct <> hlist.A var
+ind 9562:9566 <> hlist
+constr 9592:9595 <> HNil
+constr 9613:9617 <> HCons
+R9576:9579 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R9570:9573 Coq.Init.Datatypes <> list ind
+R9575:9575 Cpdt.DataStruct <> hlist.A var
+R9599:9603 Cpdt.DataStruct <> hlist ind
+R9605:9607 Coq.Init.Datatypes <> nil constr
+R9633:9633 Cpdt.DataStruct <> hlist.A var
+R9642:9645 Coq.Init.Datatypes <> list ind
+R9647:9647 Cpdt.DataStruct <> hlist.A var
+R9654:9657 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R9666:9669 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R9670:9674 Cpdt.DataStruct <> hlist ind
+R9678:9681 Coq.Init.Datatypes <> ::list_scope:x_'::'_x not
+R9677:9677 Cpdt.DataStruct <> x var
+R9682:9683 Cpdt.DataStruct <> ls var
+R9658:9662 Cpdt.DataStruct <> hlist ind
+R9664:9665 Cpdt.DataStruct <> ls var
+R9651:9651 Cpdt.DataStruct <> hlist.B var
+R9653:9653 Cpdt.DataStruct <> x var
+var 10059:10061 hlist elm
+R10065:10065 Cpdt.DataStruct <> hlist.A var
+ind 10081:10086 <> member
+constr 10112:10117 <> HFirst
+constr 10155:10159 <> HNext
+R10096:10099 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R10090:10093 Coq.Init.Datatypes <> list ind
+R10095:10095 Cpdt.DataStruct <> hlist.A var
+R10132:10137 Cpdt.DataStruct <> member ind
+R10143:10146 Coq.Init.Datatypes <> ::list_scope:x_'::'_x not
+R10140:10142 Cpdt.DataStruct <> hlist.elm var
+R10147:10148 Cpdt.DataStruct <> ls var
+R10185:10188 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R10189:10194 Cpdt.DataStruct <> member ind
+R10198:10201 Coq.Init.Datatypes <> ::list_scope:x_'::'_x not
+R10197:10197 Cpdt.DataStruct <> x var
+R10202:10203 Cpdt.DataStruct <> ls var
+R10176:10181 Cpdt.DataStruct <> member ind
+R10183:10184 Cpdt.DataStruct <> ls var
+def 11163:11166 <> hget
+R11178:11182 Cpdt.DataStruct <> hlist ind
+R11184:11185 Cpdt.DataStruct <> ls var
+R11199:11202 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R11203:11203 Cpdt.DataStruct <> hlist.B var
+R11205:11207 Cpdt.DataStruct <> hlist.elm var
+R11190:11195 Cpdt.DataStruct <> member ind
+R11197:11198 Cpdt.DataStruct <> ls var
+R11222:11224 Cpdt.DataStruct <> mls var
+R11239:11242 Cpdt.DataStruct <> HNil constr
+R11272:11274 Cpdt.DataStruct <> mem var
+R11279:11284 Cpdt.DataStruct <> member ind
+R11304:11306 Cpdt.DataStruct <> ls' var
+R11357:11359 Coq.Init.Datatypes <> nil constr
+R11364:11364 Cpdt.DataStruct <> hlist.B var
+R11366:11368 Cpdt.DataStruct <> hlist.elm var
+R11415:11418 Coq.Init.Datatypes <> ::list_scope:x_'::'_x not
+R11424:11427 Coq.Init.Datatypes <> unit ind
+R11491:11496 Cpdt.DataStruct <> HFirst constr
+R11503:11504 Coq.Init.Datatypes <> tt constr
+R11518:11522 Cpdt.DataStruct <> HNext constr
+R11533:11534 Coq.Init.Datatypes <> tt constr
+R11556:11560 Cpdt.DataStruct <> HCons constr
+R11601:11603 Cpdt.DataStruct <> mem var
+R11608:11613 Cpdt.DataStruct <> member ind
+R11633:11635 Cpdt.DataStruct <> ls' var
+R11686:11688 Coq.Init.Datatypes <> nil constr
+R11693:11701 Coq.Init.Datatypes <> Empty_set ind
+R11749:11752 Coq.Init.Datatypes <> ::list_scope:x_'::'_x not
+R11809:11812 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R11813:11813 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R11834:11882 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R11883:11883 Cpdt.DataStruct <> hlist.B var
+R11885:11887 Cpdt.DataStruct <> hlist.elm var
+R11825:11828 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R11829:11829 Cpdt.DataStruct <> hlist.B var
+R11831:11833 Cpdt.DataStruct <> hlist.elm var
+R11814:11819 Cpdt.DataStruct <> member ind
+R11805:11805 Cpdt.DataStruct <> hlist.B var
+R11951:11956 Cpdt.DataStruct <> HFirst constr
+R11974:11974 Cpdt.DataStruct <> x var
+R11988:11992 Cpdt.DataStruct <> HNext constr
+R12024:12031 Cpdt.DataStruct <> get_mls' var
+R12053:12056 Cpdt.DataStruct <> hget def
+R12093:12097 Cpdt.DataStruct hlist <> sec
+R12129:12132 Cpdt.DataStruct <> HNil constr
+R12129:12132 Cpdt.DataStruct <> HNil constr
+R12151:12155 Cpdt.DataStruct <> HCons constr
+R12151:12155 Cpdt.DataStruct <> HCons constr
+R12184:12189 Cpdt.DataStruct <> HFirst constr
+R12184:12189 Cpdt.DataStruct <> HFirst constr
+R12213:12217 Cpdt.DataStruct <> HNext constr
+R12213:12217 Cpdt.DataStruct <> HNext constr
+def 12502:12510 <> someTypes
+R12514:12517 Coq.Init.Datatypes <> list ind
+R12529:12532 Coq.Init.Datatypes <> ::list_scope:x_'::'_x not
+R12526:12528 Coq.Init.Datatypes <> nat ind
+R12537:12540 Coq.Init.Datatypes <> ::list_scope:x_'::'_x not
+R12533:12536 Coq.Init.Datatypes <> bool ind
+R12541:12543 Coq.Init.Datatypes <> nil constr
+def 12574:12583 <> someValues
+R12587:12591 Cpdt.DataStruct <> hlist ind
+R12612:12620 Cpdt.DataStruct <> someTypes def
+R12609:12609 Cpdt.DataStruct <> T var
+R12627:12631 Cpdt.DataStruct <> HCons constr
+R12636:12640 Cpdt.DataStruct <> HCons constr
+R12647:12650 Cpdt.DataStruct <> HNil constr
+R12642:12645 Coq.Init.Datatypes <> true constr
+R12669:12672 Cpdt.DataStruct <> hget def
+R12685:12690 Cpdt.DataStruct <> HFirst constr
+R12674:12683 Cpdt.DataStruct <> someValues ex
+R12778:12781 Cpdt.DataStruct <> hget def
+R12795:12799 Cpdt.DataStruct <> HNext constr
+R12801:12806 Cpdt.DataStruct <> HFirst constr
+R12783:12792 Cpdt.DataStruct <> someValues ex
+def 12955:12963 <> somePairs
+R12967:12971 Cpdt.DataStruct <> hlist ind
+R13001:13009 Cpdt.DataStruct <> someTypes def
+R12990:12992 Coq.Init.Datatypes <> ::type_scope:x_'*'_x not
+R12989:12989 Cpdt.DataStruct <> T var
+R12993:12993 Cpdt.DataStruct <> T var
+R13016:13020 Cpdt.DataStruct <> HCons constr
+R13030:13034 Cpdt.DataStruct <> HCons constr
+R13050:13053 Cpdt.DataStruct <> HNil constr
+R13036:13036 Coq.Init.Datatypes <> ::core_scope:'('_x_','_x_','_'..'_','_x_')' not
+R13041:13042 Coq.Init.Datatypes <> ::core_scope:'('_x_','_x_','_'..'_','_x_')' not
+R13048:13048 Coq.Init.Datatypes <> ::core_scope:'('_x_','_x_','_'..'_','_x_')' not
+R13037:13040 Coq.Init.Datatypes <> true constr
+R13043:13047 Coq.Init.Datatypes <> false constr
+R13022:13022 Coq.Init.Datatypes <> ::core_scope:'('_x_','_x_','_'..'_','_x_')' not
+R13024:13025 Coq.Init.Datatypes <> ::core_scope:'('_x_','_x_','_'..'_','_x_')' not
+R13027:13027 Coq.Init.Datatypes <> ::core_scope:'('_x_','_x_','_'..'_','_x_')' not
+ind 13754:13757 <> type
+constr 13770:13773 <> Unit
+constr 13784:13788 <> Arrow
+R13777:13780 Cpdt.DataStruct <> type ind
+R13796:13799 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R13804:13807 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R13808:13811 Cpdt.DataStruct <> type ind
+R13800:13803 Cpdt.DataStruct <> type ind
+R13792:13795 Cpdt.DataStruct <> type ind
+ind 14242:14244 <> exp
+constr 14278:14282 <> Const
+constr 14329:14331 <> Var
+constr 14374:14376 <> App
+constr 14452:14454 <> Abs
+R14257:14260 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R14265:14268 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R14261:14264 Cpdt.DataStruct <> type ind
+R14248:14251 Coq.Init.Datatypes <> list ind
+R14253:14256 Cpdt.DataStruct <> type ind
+R14297:14299 Cpdt.DataStruct <> exp ind
+R14304:14307 Cpdt.DataStruct <> Unit constr
+R14301:14302 Cpdt.DataStruct <> ts var
+R14359:14362 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R14363:14365 Cpdt.DataStruct <> exp ind
+R14370:14370 Cpdt.DataStruct <> t var
+R14367:14368 Cpdt.DataStruct <> ts var
+R14348:14353 Cpdt.DataStruct <> member ind
+R14357:14358 Cpdt.DataStruct <> ts var
+R14355:14355 Cpdt.DataStruct <> t var
+R14421:14424 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R14435:14438 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R14439:14441 Cpdt.DataStruct <> exp ind
+R14446:14448 Cpdt.DataStruct <> ran var
+R14443:14444 Cpdt.DataStruct <> ts var
+R14425:14427 Cpdt.DataStruct <> exp ind
+R14432:14434 Cpdt.DataStruct <> dom var
+R14429:14430 Cpdt.DataStruct <> ts var
+R14399:14401 Cpdt.DataStruct <> exp ind
+R14407:14411 Cpdt.DataStruct <> Arrow constr
+R14417:14419 Cpdt.DataStruct <> ran var
+R14413:14415 Cpdt.DataStruct <> dom var
+R14403:14404 Cpdt.DataStruct <> ts var
+R14496:14499 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R14500:14502 Cpdt.DataStruct <> exp ind
+R14508:14512 Cpdt.DataStruct <> Arrow constr
+R14518:14520 Cpdt.DataStruct <> ran var
+R14514:14516 Cpdt.DataStruct <> dom var
+R14504:14505 Cpdt.DataStruct <> ts var
+R14477:14479 Cpdt.DataStruct <> exp ind
+R14493:14495 Cpdt.DataStruct <> ran var
+R14485:14488 Coq.Init.Datatypes <> ::list_scope:x_'::'_x not
+R14482:14484 Cpdt.DataStruct <> dom var
+R14489:14490 Cpdt.DataStruct <> ts var
+R14551:14555 Cpdt.DataStruct <> Const constr
+R14551:14555 Cpdt.DataStruct <> Const constr
+def 14652:14661 <> typeDenote
+R14668:14671 Cpdt.DataStruct <> type ind
+R14691:14691 Cpdt.DataStruct <> t var
+R14704:14707 Cpdt.DataStruct <> Unit constr
+R14712:14715 Coq.Init.Datatypes <> unit ind
+R14723:14727 Cpdt.DataStruct <> Arrow constr
+R14751:14754 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R14755:14764 Cpdt.DataStruct <> typeDenote def
+R14738:14747 Cpdt.DataStruct <> typeDenote def
+def 15387:15395 <> expDenote
+R15407:15409 Cpdt.DataStruct <> exp ind
+R15414:15414 Cpdt.DataStruct <> t var
+R15411:15412 Cpdt.DataStruct <> ts var
+R15438:15441 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R15442:15451 Cpdt.DataStruct <> typeDenote def
+R15453:15453 Cpdt.DataStruct <> t var
+R15419:15423 Cpdt.DataStruct <> hlist ind
+R15436:15437 Cpdt.DataStruct <> ts var
+R15425:15434 Cpdt.DataStruct <> typeDenote def
+R15466:15466 Cpdt.DataStruct <> e var
+R15479:15483 Cpdt.DataStruct <> Const constr
+R15499:15500 Coq.Init.Datatypes <> tt constr
+R15509:15511 Cpdt.DataStruct <> Var constr
+R15533:15536 Cpdt.DataStruct <> hget def
+R15538:15538 Cpdt.DataStruct <> s var
+R15550:15552 Cpdt.DataStruct <> App constr
+R15579:15587 Cpdt.DataStruct <> expDenote def
+R15592:15592 Cpdt.DataStruct <> s var
+R15596:15604 Cpdt.DataStruct <> expDenote def
+R15609:15609 Cpdt.DataStruct <> s var
+R15618:15620 Cpdt.DataStruct <> Abs constr
+R15652:15660 Cpdt.DataStruct <> expDenote def
+R15666:15670 Cpdt.DataStruct <> HCons constr
+R15674:15674 Cpdt.DataStruct <> s var
+R15672:15672 Cpdt.DataStruct <> x var
+R15780:15788 Cpdt.DataStruct <> expDenote def
+R15796:15799 Cpdt.DataStruct <> HNil constr
+R15790:15794 Cpdt.DataStruct <> Const constr
+R15880:15888 Cpdt.DataStruct <> expDenote def
+R15923:15926 Cpdt.DataStruct <> HNil constr
+R15891:15893 Cpdt.DataStruct <> Abs constr
+R15910:15912 Cpdt.DataStruct <> Var constr
+R15914:15919 Cpdt.DataStruct <> HFirst constr
+R15903:15906 Cpdt.DataStruct <> Unit constr
+R16036:16044 Cpdt.DataStruct <> expDenote def
+R16109:16112 Cpdt.DataStruct <> HNil constr
+R16047:16049 Cpdt.DataStruct <> Abs constr
+R16068:16070 Cpdt.DataStruct <> Abs constr
+R16087:16089 Cpdt.DataStruct <> Var constr
+R16092:16096 Cpdt.DataStruct <> HNext constr
+R16098:16103 Cpdt.DataStruct <> HFirst constr
+R16080:16083 Cpdt.DataStruct <> Unit constr
+R16059:16062 Cpdt.DataStruct <> Unit constr
+R16237:16245 Cpdt.DataStruct <> expDenote def
+R16300:16303 Cpdt.DataStruct <> HNil constr
+R16248:16250 Cpdt.DataStruct <> Abs constr
+R16267:16269 Cpdt.DataStruct <> Abs constr
+R16286:16288 Cpdt.DataStruct <> Var constr
+R16290:16295 Cpdt.DataStruct <> HFirst constr
+R16279:16282 Cpdt.DataStruct <> Unit constr
+R16260:16263 Cpdt.DataStruct <> Unit constr
+R16430:16438 Cpdt.DataStruct <> expDenote def
+R16471:16474 Cpdt.DataStruct <> HNil constr
+R16441:16443 Cpdt.DataStruct <> App constr
+R16464:16468 Cpdt.DataStruct <> Const constr
+R16446:16448 Cpdt.DataStruct <> Abs constr
+R16451:16453 Cpdt.DataStruct <> Var constr
+R16455:16460 Cpdt.DataStruct <> HFirst constr
+sec 17814:17819 <> filist
+var 17833:17833 filist A
+def 17872:17877 <> filist
+R17884:17886 Coq.Init.Datatypes <> nat ind
+R17908:17908 Cpdt.DataStruct <> n var
+R17923:17923 Coq.Init.Datatypes <> O constr
+R17928:17931 Coq.Init.Datatypes <> unit ind
+R17941:17941 Coq.Init.Datatypes <> S constr
+R17950:17952 Coq.Init.Datatypes <> ::type_scope:x_'*'_x not
+R17949:17949 Cpdt.DataStruct <> filist.A var
+R17953:17958 Cpdt.DataStruct <> filist def
+def 18128:18131 <> ffin
+R18138:18140 Coq.Init.Datatypes <> nat ind
+R18162:18162 Cpdt.DataStruct <> n var
+R18177:18177 Coq.Init.Datatypes <> O constr
+R18182:18190 Coq.Init.Datatypes <> Empty_set ind
+R18200:18200 Coq.Init.Datatypes <> S constr
+R18208:18213 Coq.Init.Datatypes <> option ind
+R18216:18219 Cpdt.DataStruct <> ffin def
+def 18681:18684 <> fget
+R18691:18693 Coq.Init.Datatypes <> nat ind
+R18706:18709 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R18716:18719 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R18720:18720 Cpdt.DataStruct <> filist.A var
+R18710:18713 Cpdt.DataStruct <> ffin def
+R18715:18715 Cpdt.DataStruct <> n var
+R18698:18703 Cpdt.DataStruct <> filist def
+R18705:18705 Cpdt.DataStruct <> n var
+R18735:18735 Cpdt.DataStruct <> n var
+R18750:18750 Coq.Init.Datatypes <> O constr
+R18774:18776 Cpdt.DataStruct <> idx var
+R18795:18795 Coq.Init.Datatypes <> S constr
+R18831:18833 Cpdt.DataStruct <> idx var
+R18852:18855 Coq.Init.Datatypes <> None constr
+R18860:18862 Coq.Init.Datatypes <> fst def
+R18864:18865 Cpdt.DataStruct <> ls var
+R18879:18882 Coq.Init.Datatypes <> Some constr
+R18892:18895 Cpdt.DataStruct <> fget def
+R18901:18903 Coq.Init.Datatypes <> snd def
+R18905:18906 Cpdt.DataStruct <> ls var
+R19191:19196 Cpdt.DataStruct filist <> sec
+sec 19434:19439 <> fhlist
+var 19453:19453 fhlist A
+var 19474:19474 fhlist B
+R19479:19482 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R19478:19478 Cpdt.DataStruct <> fhlist.A var
+def 19519:19524 <> fhlist
+R19532:19535 Coq.Init.Datatypes <> list ind
+R19537:19537 Cpdt.DataStruct <> fhlist.A var
+R19560:19561 Cpdt.DataStruct <> ls var
+R19576:19578 Coq.Init.Datatypes <> nil constr
+R19583:19586 Coq.Init.Datatypes <> unit ind
+R19597:19600 Coq.Init.Datatypes <> ::list_scope:x_'::'_x not
+R19611:19613 Coq.Init.Datatypes <> ::type_scope:x_'*'_x not
+R19608:19608 Cpdt.DataStruct <> fhlist.B var
+R19614:19619 Cpdt.DataStruct <> fhlist def
+var 19783:19785 fhlist elm
+R19789:19789 Cpdt.DataStruct <> fhlist.A var
+def 19804:19810 <> fmember
+R19818:19821 Coq.Init.Datatypes <> list ind
+R19823:19823 Cpdt.DataStruct <> fhlist.A var
+R19846:19847 Cpdt.DataStruct <> ls var
+R19862:19864 Coq.Init.Datatypes <> nil constr
+R19869:19877 Coq.Init.Datatypes <> Empty_set ind
+R19888:19891 Coq.Init.Datatypes <> ::list_scope:x_'::'_x not
+R19899:19899 Coq.Init.Datatypes <> ::type_scope:x_'+'_x not
+R19907:19910 Coq.Init.Datatypes <> ::type_scope:x_'+'_x not
+R19901:19903 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R19904:19906 Cpdt.DataStruct <> fhlist.elm var
+R19911:19917 Cpdt.DataStruct <> fmember def
+def 21179:21183 <> fhget
+R21191:21194 Coq.Init.Datatypes <> list ind
+R21196:21196 Cpdt.DataStruct <> fhlist.A var
+R21210:21213 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R21224:21227 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R21228:21228 Cpdt.DataStruct <> fhlist.B var
+R21230:21232 Cpdt.DataStruct <> fhlist.elm var
+R21214:21220 Cpdt.DataStruct <> fmember def
+R21222:21223 Cpdt.DataStruct <> ls var
+R21201:21206 Cpdt.DataStruct <> fhlist def
+R21208:21209 Cpdt.DataStruct <> ls var
+R21247:21248 Cpdt.DataStruct <> ls var
+R21263:21265 Coq.Init.Datatypes <> nil constr
+R21289:21291 Cpdt.DataStruct <> idx var
+R21311:21314 Coq.Init.Datatypes <> ::list_scope:x_'::'_x not
+R21351:21353 Cpdt.DataStruct <> idx var
+R21372:21374 Coq.Init.Datatypes <> inl constr
+R21422:21428 Coq.Init.Logic <> eq_refl constr
+R21433:21435 Coq.Init.Datatypes <> fst def
+R21437:21439 Cpdt.DataStruct <> mls var
+R21479:21481 Coq.Init.Datatypes <> inr constr
+R21491:21495 Cpdt.DataStruct <> fhget def
+R21502:21504 Coq.Init.Datatypes <> snd def
+R21506:21508 Cpdt.DataStruct <> mls var
+def 21773:21775 <> foo
+R21781:21787 Coq.Init.Logic <> eq_refl constr
+R21834:21835 Coq.Init.Logic <> eq ind
+R22263:22268 Cpdt.DataStruct fhlist <> sec
+R22282:22286 Cpdt.DataStruct <> fhget def
+R22282:22286 Cpdt.DataStruct <> fhget def
+def 22822:22832 <> red_herring
+R22837:22837 Coq.Init.Datatypes <> O constr
+sec 22903:22906 <> tree
+var 22920:22920 tree A
+R8497:8505 Cpdt.DataStruct ilist_map <> sec
+sec 9189:9193 <> hlist
+var 9207:9207 hlist A
+var 9228:9228 hlist B
+R9233:9236 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R9232:9232 Cpdt.DataStruct <> hlist.A var
+ind 9562:9566 <> hlist
+constr 9592:9595 <> HNil
+constr 9613:9617 <> HCons
+R9576:9579 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R9570:9573 Coq.Init.Datatypes <> list ind
+R9575:9575 Cpdt.DataStruct <> hlist.A var
+R9599:9603 Cpdt.DataStruct <> hlist ind
+R9605:9607 Coq.Init.Datatypes <> nil constr
+R9633:9633 Cpdt.DataStruct <> hlist.A var
+R9642:9645 Coq.Init.Datatypes <> list ind
+R9647:9647 Cpdt.DataStruct <> hlist.A var
+R9654:9657 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R9666:9669 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R9670:9674 Cpdt.DataStruct <> hlist ind
+R9678:9681 Coq.Init.Datatypes <> ::list_scope:x_'::'_x not
+R9677:9677 Cpdt.DataStruct <> x var
+R9682:9683 Cpdt.DataStruct <> ls var
+R9658:9662 Cpdt.DataStruct <> hlist ind
+R9664:9665 Cpdt.DataStruct <> ls var
+R9651:9651 Cpdt.DataStruct <> hlist.B var
+R9653:9653 Cpdt.DataStruct <> x var
+var 10059:10061 hlist elm
+R10065:10065 Cpdt.DataStruct <> hlist.A var
+ind 10081:10086 <> member
+constr 10112:10117 <> HFirst
+constr 10155:10159 <> HNext
+R10096:10099 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R10090:10093 Coq.Init.Datatypes <> list ind
+R10095:10095 Cpdt.DataStruct <> hlist.A var
+R10132:10137 Cpdt.DataStruct <> member ind
+R10143:10146 Coq.Init.Datatypes <> ::list_scope:x_'::'_x not
+R10140:10142 Cpdt.DataStruct <> hlist.elm var
+R10147:10148 Cpdt.DataStruct <> ls var
+R10185:10188 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R10189:10194 Cpdt.DataStruct <> member ind
+R10198:10201 Coq.Init.Datatypes <> ::list_scope:x_'::'_x not
+R10197:10197 Cpdt.DataStruct <> x var
+R10202:10203 Cpdt.DataStruct <> ls var
+R10176:10181 Cpdt.DataStruct <> member ind
+R10183:10184 Cpdt.DataStruct <> ls var
+def 11163:11166 <> hget
+R11178:11182 Cpdt.DataStruct <> hlist ind
+R11184:11185 Cpdt.DataStruct <> ls var
+R11199:11202 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R11203:11203 Cpdt.DataStruct <> hlist.B var
+R11205:11207 Cpdt.DataStruct <> hlist.elm var
+R11190:11195 Cpdt.DataStruct <> member ind
+R11197:11198 Cpdt.DataStruct <> ls var
+R11222:11224 Cpdt.DataStruct <> mls var
+R11239:11242 Cpdt.DataStruct <> HNil constr
+R11272:11274 Cpdt.DataStruct <> mem var
+R11279:11284 Cpdt.DataStruct <> member ind
+R11304:11306 Cpdt.DataStruct <> ls' var
+R11357:11359 Coq.Init.Datatypes <> nil constr
+R11364:11364 Cpdt.DataStruct <> hlist.B var
+R11366:11368 Cpdt.DataStruct <> hlist.elm var
+R11415:11418 Coq.Init.Datatypes <> ::list_scope:x_'::'_x not
+R11424:11427 Coq.Init.Datatypes <> unit ind
+R11491:11496 Cpdt.DataStruct <> HFirst constr
+R11503:11504 Coq.Init.Datatypes <> tt constr
+R11518:11522 Cpdt.DataStruct <> HNext constr
+R11533:11534 Coq.Init.Datatypes <> tt constr
+R11556:11560 Cpdt.DataStruct <> HCons constr
+R11601:11603 Cpdt.DataStruct <> mem var
+R11608:11613 Cpdt.DataStruct <> member ind
+R11633:11635 Cpdt.DataStruct <> ls' var
+R11686:11688 Coq.Init.Datatypes <> nil constr
+R11693:11701 Coq.Init.Datatypes <> Empty_set ind
+R11749:11752 Coq.Init.Datatypes <> ::list_scope:x_'::'_x not
+R11809:11812 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R11813:11813 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R11834:11882 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R11883:11883 Cpdt.DataStruct <> hlist.B var
+R11885:11887 Cpdt.DataStruct <> hlist.elm var
+R11825:11828 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R11829:11829 Cpdt.DataStruct <> hlist.B var
+R11831:11833 Cpdt.DataStruct <> hlist.elm var
+R11814:11819 Cpdt.DataStruct <> member ind
+R11805:11805 Cpdt.DataStruct <> hlist.B var
+R11951:11956 Cpdt.DataStruct <> HFirst constr
+R11974:11974 Cpdt.DataStruct <> x var
+R11988:11992 Cpdt.DataStruct <> HNext constr
+R12024:12031 Cpdt.DataStruct <> get_mls' var
+R12053:12056 Cpdt.DataStruct <> hget def
+R12093:12097 Cpdt.DataStruct hlist <> sec
+R12129:12132 Cpdt.DataStruct <> HNil constr
+R12129:12132 Cpdt.DataStruct <> HNil constr
+R12151:12155 Cpdt.DataStruct <> HCons constr
+R12151:12155 Cpdt.DataStruct <> HCons constr
+R12184:12189 Cpdt.DataStruct <> HFirst constr
+R12184:12189 Cpdt.DataStruct <> HFirst constr
+R12213:12217 Cpdt.DataStruct <> HNext constr
+R12213:12217 Cpdt.DataStruct <> HNext constr
+def 12502:12510 <> someTypes
+R12514:12517 Coq.Init.Datatypes <> list ind
+R12529:12532 Coq.Init.Datatypes <> ::list_scope:x_'::'_x not
+R12526:12528 Coq.Init.Datatypes <> nat ind
+R12537:12540 Coq.Init.Datatypes <> ::list_scope:x_'::'_x not
+R12533:12536 Coq.Init.Datatypes <> bool ind
+R12541:12543 Coq.Init.Datatypes <> nil constr
+def 12574:12583 <> someValues
+R12587:12591 Cpdt.DataStruct <> hlist ind
+R12612:12620 Cpdt.DataStruct <> someTypes def
+R12609:12609 Cpdt.DataStruct <> T var
+R12627:12631 Cpdt.DataStruct <> HCons constr
+R12636:12640 Cpdt.DataStruct <> HCons constr
+R12647:12650 Cpdt.DataStruct <> HNil constr
+R12642:12645 Coq.Init.Datatypes <> true constr
+R12669:12672 Cpdt.DataStruct <> hget def
+R12685:12690 Cpdt.DataStruct <> HFirst constr
+R12674:12683 Cpdt.DataStruct <> someValues ex
+R12778:12781 Cpdt.DataStruct <> hget def
+R12795:12799 Cpdt.DataStruct <> HNext constr
+R12801:12806 Cpdt.DataStruct <> HFirst constr
+R12783:12792 Cpdt.DataStruct <> someValues ex
+def 12955:12963 <> somePairs
+R12967:12971 Cpdt.DataStruct <> hlist ind
+R13001:13009 Cpdt.DataStruct <> someTypes def
+R12990:12992 Coq.Init.Datatypes <> ::type_scope:x_'*'_x not
+R12989:12989 Cpdt.DataStruct <> T var
+R12993:12993 Cpdt.DataStruct <> T var
+R13016:13020 Cpdt.DataStruct <> HCons constr
+R13030:13034 Cpdt.DataStruct <> HCons constr
+R13050:13053 Cpdt.DataStruct <> HNil constr
+R13036:13036 Coq.Init.Datatypes <> ::core_scope:'('_x_','_x_','_'..'_','_x_')' not
+R13041:13042 Coq.Init.Datatypes <> ::core_scope:'('_x_','_x_','_'..'_','_x_')' not
+R13048:13048 Coq.Init.Datatypes <> ::core_scope:'('_x_','_x_','_'..'_','_x_')' not
+R13037:13040 Coq.Init.Datatypes <> true constr
+R13043:13047 Coq.Init.Datatypes <> false constr
+R13022:13022 Coq.Init.Datatypes <> ::core_scope:'('_x_','_x_','_'..'_','_x_')' not
+R13024:13025 Coq.Init.Datatypes <> ::core_scope:'('_x_','_x_','_'..'_','_x_')' not
+R13027:13027 Coq.Init.Datatypes <> ::core_scope:'('_x_','_x_','_'..'_','_x_')' not
+ind 13754:13757 <> type
+constr 13770:13773 <> Unit
+constr 13784:13788 <> Arrow
+R13777:13780 Cpdt.DataStruct <> type ind
+R13796:13799 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R13804:13807 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R13808:13811 Cpdt.DataStruct <> type ind
+R13800:13803 Cpdt.DataStruct <> type ind
+R13792:13795 Cpdt.DataStruct <> type ind
+ind 14242:14244 <> exp
+constr 14278:14282 <> Const
+constr 14329:14331 <> Var
+constr 14374:14376 <> App
+constr 14452:14454 <> Abs
+R14257:14260 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R14265:14268 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R14261:14264 Cpdt.DataStruct <> type ind
+R14248:14251 Coq.Init.Datatypes <> list ind
+R14253:14256 Cpdt.DataStruct <> type ind
+R14297:14299 Cpdt.DataStruct <> exp ind
+R14304:14307 Cpdt.DataStruct <> Unit constr
+R14301:14302 Cpdt.DataStruct <> ts var
+R14359:14362 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R14363:14365 Cpdt.DataStruct <> exp ind
+R14370:14370 Cpdt.DataStruct <> t var
+R14367:14368 Cpdt.DataStruct <> ts var
+R14348:14353 Cpdt.DataStruct <> member ind
+R14357:14358 Cpdt.DataStruct <> ts var
+R14355:14355 Cpdt.DataStruct <> t var
+R14421:14424 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R14435:14438 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R14439:14441 Cpdt.DataStruct <> exp ind
+R14446:14448 Cpdt.DataStruct <> ran var
+R14443:14444 Cpdt.DataStruct <> ts var
+R14425:14427 Cpdt.DataStruct <> exp ind
+R14432:14434 Cpdt.DataStruct <> dom var
+R14429:14430 Cpdt.DataStruct <> ts var
+R14399:14401 Cpdt.DataStruct <> exp ind
+R14407:14411 Cpdt.DataStruct <> Arrow constr
+R14417:14419 Cpdt.DataStruct <> ran var
+R14413:14415 Cpdt.DataStruct <> dom var
+R14403:14404 Cpdt.DataStruct <> ts var
+R14496:14499 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R14500:14502 Cpdt.DataStruct <> exp ind
+R14508:14512 Cpdt.DataStruct <> Arrow constr
+R14518:14520 Cpdt.DataStruct <> ran var
+R14514:14516 Cpdt.DataStruct <> dom var
+R14504:14505 Cpdt.DataStruct <> ts var
+R14477:14479 Cpdt.DataStruct <> exp ind
+R14493:14495 Cpdt.DataStruct <> ran var
+R14485:14488 Coq.Init.Datatypes <> ::list_scope:x_'::'_x not
+R14482:14484 Cpdt.DataStruct <> dom var
+R14489:14490 Cpdt.DataStruct <> ts var
+R14551:14555 Cpdt.DataStruct <> Const constr
+R14551:14555 Cpdt.DataStruct <> Const constr
+def 14652:14661 <> typeDenote
+R14668:14671 Cpdt.DataStruct <> type ind
+R14691:14691 Cpdt.DataStruct <> t var
+R14704:14707 Cpdt.DataStruct <> Unit constr
+R14712:14715 Coq.Init.Datatypes <> unit ind
+R14723:14727 Cpdt.DataStruct <> Arrow constr
+R14751:14754 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R14755:14764 Cpdt.DataStruct <> typeDenote def
+R14738:14747 Cpdt.DataStruct <> typeDenote def
+def 15387:15395 <> expDenote
+R15407:15409 Cpdt.DataStruct <> exp ind
+R15414:15414 Cpdt.DataStruct <> t var
+R15411:15412 Cpdt.DataStruct <> ts var
+R15438:15441 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R15442:15451 Cpdt.DataStruct <> typeDenote def
+R15453:15453 Cpdt.DataStruct <> t var
+R15419:15423 Cpdt.DataStruct <> hlist ind
+R15436:15437 Cpdt.DataStruct <> ts var
+R15425:15434 Cpdt.DataStruct <> typeDenote def
+R15466:15466 Cpdt.DataStruct <> e var
+R15479:15483 Cpdt.DataStruct <> Const constr
+R15499:15500 Coq.Init.Datatypes <> tt constr
+R15509:15511 Cpdt.DataStruct <> Var constr
+R15533:15536 Cpdt.DataStruct <> hget def
+R15538:15538 Cpdt.DataStruct <> s var
+R15550:15552 Cpdt.DataStruct <> App constr
+R15579:15587 Cpdt.DataStruct <> expDenote def
+R15592:15592 Cpdt.DataStruct <> s var
+R15596:15604 Cpdt.DataStruct <> expDenote def
+R15609:15609 Cpdt.DataStruct <> s var
+R15618:15620 Cpdt.DataStruct <> Abs constr
+R15652:15660 Cpdt.DataStruct <> expDenote def
+R15666:15670 Cpdt.DataStruct <> HCons constr
+R15674:15674 Cpdt.DataStruct <> s var
+R15672:15672 Cpdt.DataStruct <> x var
+R15780:15788 Cpdt.DataStruct <> expDenote def
+R15796:15799 Cpdt.DataStruct <> HNil constr
+R15790:15794 Cpdt.DataStruct <> Const constr
+R15880:15888 Cpdt.DataStruct <> expDenote def
+R15923:15926 Cpdt.DataStruct <> HNil constr
+R15891:15893 Cpdt.DataStruct <> Abs constr
+R15910:15912 Cpdt.DataStruct <> Var constr
+R15914:15919 Cpdt.DataStruct <> HFirst constr
+R15903:15906 Cpdt.DataStruct <> Unit constr
+R16036:16044 Cpdt.DataStruct <> expDenote def
+R16109:16112 Cpdt.DataStruct <> HNil constr
+R16047:16049 Cpdt.DataStruct <> Abs constr
+R16068:16070 Cpdt.DataStruct <> Abs constr
+R16087:16089 Cpdt.DataStruct <> Var constr
+R16092:16096 Cpdt.DataStruct <> HNext constr
+R16098:16103 Cpdt.DataStruct <> HFirst constr
+R16080:16083 Cpdt.DataStruct <> Unit constr
+R16059:16062 Cpdt.DataStruct <> Unit constr
+R16237:16245 Cpdt.DataStruct <> expDenote def
+R16300:16303 Cpdt.DataStruct <> HNil constr
+R16248:16250 Cpdt.DataStruct <> Abs constr
+R16267:16269 Cpdt.DataStruct <> Abs constr
+R16286:16288 Cpdt.DataStruct <> Var constr
+R16290:16295 Cpdt.DataStruct <> HFirst constr
+R16279:16282 Cpdt.DataStruct <> Unit constr
+R16260:16263 Cpdt.DataStruct <> Unit constr
+R16430:16438 Cpdt.DataStruct <> expDenote def
+R16471:16474 Cpdt.DataStruct <> HNil constr
+R16441:16443 Cpdt.DataStruct <> App constr
+R16464:16468 Cpdt.DataStruct <> Const constr
+R16446:16448 Cpdt.DataStruct <> Abs constr
+R16451:16453 Cpdt.DataStruct <> Var constr
+R16455:16460 Cpdt.DataStruct <> HFirst constr
+sec 17814:17819 <> filist
+var 17833:17833 filist A
+def 17872:17877 <> filist
+R17884:17886 Coq.Init.Datatypes <> nat ind
+R17908:17908 Cpdt.DataStruct <> n var
+R17923:17923 Coq.Init.Datatypes <> O constr
+R17928:17931 Coq.Init.Datatypes <> unit ind
+R17941:17941 Coq.Init.Datatypes <> S constr
+R17950:17952 Coq.Init.Datatypes <> ::type_scope:x_'*'_x not
+R17949:17949 Cpdt.DataStruct <> filist.A var
+R17953:17958 Cpdt.DataStruct <> filist def
+def 18128:18131 <> ffin
+R18138:18140 Coq.Init.Datatypes <> nat ind
+R18162:18162 Cpdt.DataStruct <> n var
+R18177:18177 Coq.Init.Datatypes <> O constr
+R18182:18190 Coq.Init.Datatypes <> Empty_set ind
+R18200:18200 Coq.Init.Datatypes <> S constr
+R18208:18213 Coq.Init.Datatypes <> option ind
+R18216:18219 Cpdt.DataStruct <> ffin def
+def 18681:18684 <> fget
+R18691:18693 Coq.Init.Datatypes <> nat ind
+R18706:18709 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R18716:18719 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R18720:18720 Cpdt.DataStruct <> filist.A var
+R18710:18713 Cpdt.DataStruct <> ffin def
+R18715:18715 Cpdt.DataStruct <> n var
+R18698:18703 Cpdt.DataStruct <> filist def
+R18705:18705 Cpdt.DataStruct <> n var
+R18735:18735 Cpdt.DataStruct <> n var
+R18750:18750 Coq.Init.Datatypes <> O constr
+R18774:18776 Cpdt.DataStruct <> idx var
+R18795:18795 Coq.Init.Datatypes <> S constr
+R18831:18833 Cpdt.DataStruct <> idx var
+R18852:18855 Coq.Init.Datatypes <> None constr
+R18860:18862 Coq.Init.Datatypes <> fst def
+R18864:18865 Cpdt.DataStruct <> ls var
+R18879:18882 Coq.Init.Datatypes <> Some constr
+R18892:18895 Cpdt.DataStruct <> fget def
+R18901:18903 Coq.Init.Datatypes <> snd def
+R18905:18906 Cpdt.DataStruct <> ls var
+R19191:19196 Cpdt.DataStruct filist <> sec
+sec 19434:19439 <> fhlist
+var 19453:19453 fhlist A
+var 19474:19474 fhlist B
+R19479:19482 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R19478:19478 Cpdt.DataStruct <> fhlist.A var
+def 19519:19524 <> fhlist
+R19532:19535 Coq.Init.Datatypes <> list ind
+R19537:19537 Cpdt.DataStruct <> fhlist.A var
+R19560:19561 Cpdt.DataStruct <> ls var
+R19576:19578 Coq.Init.Datatypes <> nil constr
+R19583:19586 Coq.Init.Datatypes <> unit ind
+R19597:19600 Coq.Init.Datatypes <> ::list_scope:x_'::'_x not
+R19611:19613 Coq.Init.Datatypes <> ::type_scope:x_'*'_x not
+R19608:19608 Cpdt.DataStruct <> fhlist.B var
+R19614:19619 Cpdt.DataStruct <> fhlist def
+var 19783:19785 fhlist elm
+R19789:19789 Cpdt.DataStruct <> fhlist.A var
+def 19804:19810 <> fmember
+R19818:19821 Coq.Init.Datatypes <> list ind
+R19823:19823 Cpdt.DataStruct <> fhlist.A var
+R19846:19847 Cpdt.DataStruct <> ls var
+R19862:19864 Coq.Init.Datatypes <> nil constr
+R19869:19877 Coq.Init.Datatypes <> Empty_set ind
+R19888:19891 Coq.Init.Datatypes <> ::list_scope:x_'::'_x not
+R19899:19899 Coq.Init.Datatypes <> ::type_scope:x_'+'_x not
+R19907:19910 Coq.Init.Datatypes <> ::type_scope:x_'+'_x not
+R19901:19903 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R19904:19906 Cpdt.DataStruct <> fhlist.elm var
+R19911:19917 Cpdt.DataStruct <> fmember def
+def 21179:21183 <> fhget
+R21191:21194 Coq.Init.Datatypes <> list ind
+R21196:21196 Cpdt.DataStruct <> fhlist.A var
+R21210:21213 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R21224:21227 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R21228:21228 Cpdt.DataStruct <> fhlist.B var
+R21230:21232 Cpdt.DataStruct <> fhlist.elm var
+R21214:21220 Cpdt.DataStruct <> fmember def
+R21222:21223 Cpdt.DataStruct <> ls var
+R21201:21206 Cpdt.DataStruct <> fhlist def
+R21208:21209 Cpdt.DataStruct <> ls var
+R21247:21248 Cpdt.DataStruct <> ls var
+R21263:21265 Coq.Init.Datatypes <> nil constr
+R21289:21291 Cpdt.DataStruct <> idx var
+R21311:21314 Coq.Init.Datatypes <> ::list_scope:x_'::'_x not
+R21351:21353 Cpdt.DataStruct <> idx var
+R21372:21374 Coq.Init.Datatypes <> inl constr
+R21422:21428 Coq.Init.Logic <> eq_refl constr
+R21433:21435 Coq.Init.Datatypes <> fst def
+R21437:21439 Cpdt.DataStruct <> mls var
+R21479:21481 Coq.Init.Datatypes <> inr constr
+R21491:21495 Cpdt.DataStruct <> fhget def
+R21502:21504 Coq.Init.Datatypes <> snd def
+R21506:21508 Cpdt.DataStruct <> mls var
+def 21773:21775 <> foo
+R21781:21787 Coq.Init.Logic <> eq_refl constr
+R21834:21835 Coq.Init.Logic <> eq ind
+R22263:22268 Cpdt.DataStruct fhlist <> sec
+R22282:22286 Cpdt.DataStruct <> fhget def
+R22282:22286 Cpdt.DataStruct <> fhget def
+sec 25166:25169 <> tree
+var 25183:25183 tree A
+ind 26045:26048 <> tree
+constr 26063:26066 <> Leaf
+constr 26084:26087 <> Node
+R26071:26074 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R26075:26078 Cpdt.DataStruct <> tree ind
+R26070:26070 Cpdt.DataStruct <> tree.A var
+R26101:26101 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R26116:26120 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R26121:26124 Cpdt.DataStruct <> tree ind
+R26108:26111 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R26112:26115 Cpdt.DataStruct <> tree ind
+R26102:26105 Cpdt.DataStruct <> ffin def
+R26107:26107 Cpdt.DataStruct <> n var
+R26345:26348 Cpdt.DataStruct tree <> sec
+R26362:26365 Cpdt.DataStruct <> Node constr
+R26362:26365 Cpdt.DataStruct <> Node constr
+sec 26690:26696 <> rifoldr
+var 26711:26711 rifoldr A
+var 26713:26713 rifoldr B
+var 26733:26733 rifoldr f
+R26738:26741 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R26743:26746 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R26747:26747 Cpdt.DataStruct <> rifoldr.B var
+R26742:26742 Cpdt.DataStruct <> rifoldr.B var
+R26737:26737 Cpdt.DataStruct <> rifoldr.A var
+var 26761:26761 rifoldr i
+R26765:26765 Cpdt.DataStruct <> rifoldr.B var
+def 26780:26786 <> rifoldr
+R26793:26795 Coq.Init.Datatypes <> nat ind
+R26800:26800 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R26812:26816 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R26817:26817 Cpdt.DataStruct <> rifoldr.B var
+R26807:26810 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R26811:26811 Cpdt.DataStruct <> rifoldr.A var
+R26801:26804 Cpdt.DataStruct <> ffin def
+R26806:26806 Cpdt.DataStruct <> n var
+R26832:26832 Cpdt.DataStruct <> n var
+R26847:26847 Coq.Init.Datatypes <> O constr
+R26861:26861 Cpdt.DataStruct <> rifoldr.i var
+R26871:26871 Coq.Init.Datatypes <> S constr
+R26890:26890 Cpdt.DataStruct <> rifoldr.f var
+R26904:26910 Cpdt.DataStruct <> rifoldr def
+R26927:26929 Cpdt.DataStruct <> get var
+R26932:26935 Coq.Init.Datatypes <> Some constr
+R26937:26939 Cpdt.DataStruct <> idx var
+R26893:26895 Cpdt.DataStruct <> get var
+R26897:26900 Coq.Init.Datatypes <> None constr
+R26957:26963 Cpdt.DataStruct rifoldr <> sec
+R26977:26983 Cpdt.DataStruct <> rifoldr def
+R26977:26983 Cpdt.DataStruct <> rifoldr def
+def 27012:27014 <> sum
+R27021:27024 Cpdt.DataStruct <> tree ind
+R27026:27028 Coq.Init.Datatypes <> nat ind
+R27033:27035 Coq.Init.Datatypes <> nat ind
+R27048:27048 Cpdt.DataStruct <> t var
+R27061:27064 Cpdt.DataStruct <> Leaf constr
+R27079:27082 Cpdt.DataStruct <> Node constr
+R27091:27097 Cpdt.DataStruct <> rifoldr def
+R27118:27120 Cpdt.DataStruct <> sum def
+R27125:27127 Cpdt.DataStruct <> idx var
+R27104:27104 Coq.Init.Datatypes <> O constr
+R27099:27102 Coq.Init.Peano <> plus syndef
+def 27148:27150 <> inc
+R27157:27160 Cpdt.DataStruct <> tree ind
+R27162:27164 Coq.Init.Datatypes <> nat ind
+R27169:27172 Cpdt.DataStruct <> tree ind
+R27174:27176 Coq.Init.Datatypes <> nat ind
+R27189:27189 Cpdt.DataStruct <> t var
+R27202:27205 Cpdt.DataStruct <> Leaf constr
+R27212:27215 Cpdt.DataStruct <> Leaf constr
+R27218:27218 Coq.Init.Datatypes <> S constr
+R27229:27232 Cpdt.DataStruct <> Node constr
+R27241:27244 Cpdt.DataStruct <> Node constr
+R27258:27260 Cpdt.DataStruct <> inc def
+R27265:27267 Cpdt.DataStruct <> idx var
+prf 27462:27468 <> plus_ge
+R27502:27507 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R27516:27521 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R27529:27532 Coq.Init.Peano <> ::nat_scope:x_'>='_x not
+R27524:27526 Coq.Init.Peano <> ::nat_scope:x_'+'_x not
+R27522:27523 Cpdt.DataStruct <> x1 var
+R27527:27528 Cpdt.DataStruct <> y1 var
+R27535:27537 Coq.Init.Peano <> ::nat_scope:x_'+'_x not
+R27533:27534 Cpdt.DataStruct <> x2 var
+R27538:27539 Cpdt.DataStruct <> y2 var
+R27510:27513 Coq.Init.Peano <> ::nat_scope:x_'>='_x not
+R27508:27509 Cpdt.DataStruct <> y1 var
+R27514:27515 Cpdt.DataStruct <> y2 var
+R27496:27499 Coq.Init.Peano <> ::nat_scope:x_'>='_x not
+R27494:27495 Cpdt.DataStruct <> x1 var
+R27500:27501 Cpdt.DataStruct <> x2 var
+prf 27563:27570 <> sum_inc'
+R27598:27601 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R27602:27604 Coq.Init.Datatypes <> nat ind
+R27592:27595 Cpdt.DataStruct <> ffin def
+R27597:27597 Cpdt.DataStruct <> n var
+R27610:27610 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R27639:27645 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R27663:27666 Coq.Init.Peano <> ::nat_scope:x_'>='_x not
+R27646:27652 Cpdt.DataStruct <> rifoldr def
+R27661:27662 Cpdt.DataStruct <> f1 var
+R27659:27659 Coq.Init.Datatypes <> O constr
+R27654:27657 Coq.Init.Peano <> plus syndef
+R27667:27673 Cpdt.DataStruct <> rifoldr def
+R27682:27683 Cpdt.DataStruct <> f2 var
+R27680:27680 Coq.Init.Datatypes <> O constr
+R27675:27678 Coq.Init.Peano <> plus syndef
+R27629:27632 Coq.Init.Peano <> ::nat_scope:x_'>='_x not
+R27623:27624 Cpdt.DataStruct <> f1 var
+R27626:27628 Cpdt.DataStruct <> idx var
+R27633:27634 Cpdt.DataStruct <> f2 var
+R27636:27638 Cpdt.DataStruct <> idx var
+prf 27747:27753 <> sum_inc
+R27778:27781 Coq.Init.Peano <> ::nat_scope:x_'>='_x not
+R27767:27769 Cpdt.DataStruct <> sum def
+R27772:27774 Cpdt.DataStruct <> inc def
+R27776:27776 Cpdt.DataStruct <> t var
+R27782:27784 Cpdt.DataStruct <> sum def
+R27786:27786 Cpdt.DataStruct <> t var
+ind 28904:28908 <> type'
+constr 28920:28922 <> Nat
+constr 28926:28929 <> Bool
+R28923:28923 Cpdt.DataStruct <> type' ind
+R28930:28930 Cpdt.DataStruct <> type' ind
+ind 28943:28946 <> exp'
+constr 28969:28974 <> NConst
+constr 28996:28999 <> Plus
+constr 29038:29039 <> Eq
+constr 29080:29085 <> BConst
+constr 29127:29130 <> Cond
+R28955:28958 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R28950:28954 Cpdt.DataStruct <> type' ind
+R28981:28984 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R28985:28988 Cpdt.DataStruct <> exp' ind
+R28990:28992 Cpdt.DataStruct <> Nat constr
+R28978:28980 Coq.Init.Datatypes <> nat ind
+R29011:29014 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R29023:29026 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R29027:29030 Cpdt.DataStruct <> exp' ind
+R29032:29034 Cpdt.DataStruct <> Nat constr
+R29015:29018 Cpdt.DataStruct <> exp' ind
+R29020:29022 Cpdt.DataStruct <> Nat constr
+R29003:29006 Cpdt.DataStruct <> exp' ind
+R29008:29010 Cpdt.DataStruct <> Nat constr
+R29051:29054 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R29063:29066 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R29067:29070 Cpdt.DataStruct <> exp' ind
+R29072:29075 Cpdt.DataStruct <> Bool constr
+R29055:29058 Cpdt.DataStruct <> exp' ind
+R29060:29062 Cpdt.DataStruct <> Nat constr
+R29043:29046 Cpdt.DataStruct <> exp' ind
+R29048:29050 Cpdt.DataStruct <> Nat constr
+R29093:29096 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R29097:29100 Cpdt.DataStruct <> exp' ind
+R29102:29105 Cpdt.DataStruct <> Bool constr
+R29089:29092 Coq.Init.Datatypes <> bool ind
+R29146:29146 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R29166:29172 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R29173:29173 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R29190:29194 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R29201:29204 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R29205:29208 Cpdt.DataStruct <> exp' ind
+R29210:29210 Cpdt.DataStruct <> t var
+R29195:29198 Cpdt.DataStruct <> exp' ind
+R29200:29200 Cpdt.DataStruct <> t var
+R29180:29183 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R29184:29187 Cpdt.DataStruct <> exp' ind
+R29189:29189 Cpdt.DataStruct <> t var
+R29174:29177 Cpdt.DataStruct <> ffin def
+R29179:29179 Cpdt.DataStruct <> n var
+R29153:29156 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R29157:29160 Cpdt.DataStruct <> exp' ind
+R29162:29165 Cpdt.DataStruct <> Bool constr
+R29147:29150 Cpdt.DataStruct <> ffin def
+R29152:29152 Cpdt.DataStruct <> n var
+def 29746:29748 <> ex1
+R29753:29756 Cpdt.DataStruct <> Cond constr
+R30157:30162 Cpdt.DataStruct <> NConst constr
+R30009:30009 Cpdt.DataStruct <> f var
+R30032:30035 Coq.Init.Datatypes <> None constr
+R30040:30045 Cpdt.DataStruct <> NConst constr
+R30065:30068 Coq.Init.Datatypes <> Some constr
+R30070:30073 Coq.Init.Datatypes <> None constr
+R30078:30083 Cpdt.DataStruct <> NConst constr
+R30103:30106 Coq.Init.Datatypes <> Some constr
+R30109:30112 Coq.Init.Datatypes <> Some constr
+R29778:29778 Cpdt.DataStruct <> f var
+R29801:29804 Coq.Init.Datatypes <> None constr
+R29809:29810 Cpdt.DataStruct <> Eq constr
+R29842:29847 Cpdt.DataStruct <> NConst constr
+R29813:29816 Cpdt.DataStruct <> Plus constr
+R29830:29835 Cpdt.DataStruct <> NConst constr
+R29819:29824 Cpdt.DataStruct <> NConst constr
+R29868:29871 Coq.Init.Datatypes <> Some constr
+R29873:29876 Coq.Init.Datatypes <> None constr
+R29881:29882 Cpdt.DataStruct <> Eq constr
+R29914:29919 Cpdt.DataStruct <> NConst constr
+R29885:29888 Cpdt.DataStruct <> Plus constr
+R29902:29907 Cpdt.DataStruct <> NConst constr
+R29891:29896 Cpdt.DataStruct <> NConst constr
+R29940:29943 Coq.Init.Datatypes <> Some constr
+R29946:29949 Coq.Init.Datatypes <> Some constr
+def 30268:30278 <> type'Denote
+R30285:30289 Cpdt.DataStruct <> type' ind
+R30309:30309 Cpdt.DataStruct <> t var
+R30322:30324 Cpdt.DataStruct <> Nat constr
+R30329:30331 Coq.Init.Datatypes <> nat ind
+R30339:30342 Cpdt.DataStruct <> Bool constr
+R30347:30350 Coq.Init.Datatypes <> bool ind
+sec 30553:30556 <> cond
+var 30570:30570 cond A
+var 30590:30596 cond default
+R30600:30600 Cpdt.DataStruct <> cond.A var
+def 30615:30618 <> cond
+R30625:30627 Coq.Init.Datatypes <> nat ind
+R30632:30632 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R30647:30651 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R30652:30652 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R30664:30668 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R30669:30669 Cpdt.DataStruct <> cond.A var
+R30659:30662 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R30663:30663 Cpdt.DataStruct <> cond.A var
+R30653:30656 Cpdt.DataStruct <> ffin def
+R30658:30658 Cpdt.DataStruct <> n var
+R30639:30642 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R30643:30646 Coq.Init.Datatypes <> bool ind
+R30633:30636 Cpdt.DataStruct <> ffin def
+R30638:30638 Cpdt.DataStruct <> n var
+R30684:30684 Cpdt.DataStruct <> n var
+R30699:30699 Coq.Init.Datatypes <> O constr
+R30715:30721 Cpdt.DataStruct <> cond.default var
+R30731:30731 Coq.Init.Datatypes <> S constr
+R30770:30774 Cpdt.DataStruct <> tests var
+R30776:30779 Coq.Init.Datatypes <> None constr
+R30823:30826 Cpdt.DataStruct <> cond def
+R30897:30902 Cpdt.DataStruct <> bodies var
+R30905:30908 Coq.Init.Datatypes <> Some constr
+R30910:30912 Cpdt.DataStruct <> idx var
+R30855:30859 Cpdt.DataStruct <> tests var
+R30862:30865 Coq.Init.Datatypes <> Some constr
+R30867:30869 Cpdt.DataStruct <> idx var
+R30796:30801 Cpdt.DataStruct <> bodies var
+R30803:30806 Coq.Init.Datatypes <> None constr
+R30929:30932 Cpdt.DataStruct cond <> sec
+R30946:30949 Cpdt.DataStruct <> cond def
+R30946:30949 Cpdt.DataStruct <> cond def
+def 31084:31093 <> exp'Denote
+R31102:31105 Cpdt.DataStruct <> exp' ind
+R31107:31107 Cpdt.DataStruct <> t var
+R31112:31122 Cpdt.DataStruct <> type'Denote def
+R31124:31124 Cpdt.DataStruct <> t var
+R31137:31137 Cpdt.DataStruct <> e var
+R31150:31155 Cpdt.DataStruct <> NConst constr
+R31170:31173 Cpdt.DataStruct <> Plus constr
+R31197:31199 Coq.Init.Peano <> ::nat_scope:x_'+'_x not
+R31184:31193 Cpdt.DataStruct <> exp'Denote def
+R31200:31209 Cpdt.DataStruct <> exp'Denote def
+R31220:31221 Cpdt.DataStruct <> Eq constr
+R31241:31250 Coq.Arith.Peano_dec <> eq_nat_dec syndef
+R31269:31278 Cpdt.DataStruct <> exp'Denote def
+R31253:31262 Cpdt.DataStruct <> exp'Denote def
+R31299:31303 Coq.Init.Datatypes <> false constr
+R31289:31292 Coq.Init.Datatypes <> true constr
+R31312:31317 Cpdt.DataStruct <> BConst constr
+R31332:31335 Cpdt.DataStruct <> Cond constr
+R31371:31374 Cpdt.DataStruct <> cond def
+R31463:31472 Cpdt.DataStruct <> exp'Denote def
+R31482:31484 Cpdt.DataStruct <> idx var
+R31421:31430 Cpdt.DataStruct <> exp'Denote def
+R31439:31441 Cpdt.DataStruct <> idx var
+R31383:31392 Cpdt.DataStruct <> exp'Denote def
+ind 28904:28908 <> type'
+constr 28920:28922 <> Nat
+constr 28926:28929 <> Bool
+R28923:28923 Cpdt.DataStruct <> type' ind
+R28930:28930 Cpdt.DataStruct <> type' ind
+ind 28943:28946 <> exp'
+constr 28969:28974 <> NConst
+constr 28996:28999 <> Plus
+constr 29038:29039 <> Eq
+constr 29080:29085 <> BConst
+constr 29127:29130 <> Cond
+R28955:28958 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R28950:28954 Cpdt.DataStruct <> type' ind
+R28981:28984 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R28985:28988 Cpdt.DataStruct <> exp' ind
+R28990:28992 Cpdt.DataStruct <> Nat constr
+R28978:28980 Coq.Init.Datatypes <> nat ind
+R29011:29014 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R29023:29026 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R29027:29030 Cpdt.DataStruct <> exp' ind
+R29032:29034 Cpdt.DataStruct <> Nat constr
+R29015:29018 Cpdt.DataStruct <> exp' ind
+R29020:29022 Cpdt.DataStruct <> Nat constr
+R29003:29006 Cpdt.DataStruct <> exp' ind
+R29008:29010 Cpdt.DataStruct <> Nat constr
+R29051:29054 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R29063:29066 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R29067:29070 Cpdt.DataStruct <> exp' ind
+R29072:29075 Cpdt.DataStruct <> Bool constr
+R29055:29058 Cpdt.DataStruct <> exp' ind
+R29060:29062 Cpdt.DataStruct <> Nat constr
+R29043:29046 Cpdt.DataStruct <> exp' ind
+R29048:29050 Cpdt.DataStruct <> Nat constr
+R29093:29096 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R29097:29100 Cpdt.DataStruct <> exp' ind
+R29102:29105 Cpdt.DataStruct <> Bool constr
+R29089:29092 Coq.Init.Datatypes <> bool ind
+R29146:29146 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R29166:29172 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R29173:29173 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R29190:29194 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R29201:29204 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R29205:29208 Cpdt.DataStruct <> exp' ind
+R29210:29210 Cpdt.DataStruct <> t var
+R29195:29198 Cpdt.DataStruct <> exp' ind
+R29200:29200 Cpdt.DataStruct <> t var
+R29180:29183 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R29184:29187 Cpdt.DataStruct <> exp' ind
+R29189:29189 Cpdt.DataStruct <> t var
+R29174:29177 Cpdt.DataStruct <> ffin def
+R29179:29179 Cpdt.DataStruct <> n var
+R29153:29156 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R29157:29160 Cpdt.DataStruct <> exp' ind
+R29162:29165 Cpdt.DataStruct <> Bool constr
+R29147:29150 Cpdt.DataStruct <> ffin def
+R29152:29152 Cpdt.DataStruct <> n var
+def 29746:29748 <> ex1
+R29753:29756 Cpdt.DataStruct <> Cond constr
+R30157:30162 Cpdt.DataStruct <> NConst constr
+R30009:30009 Cpdt.DataStruct <> f var
+R30032:30035 Coq.Init.Datatypes <> None constr
+R30040:30045 Cpdt.DataStruct <> NConst constr
+R30065:30068 Coq.Init.Datatypes <> Some constr
+R30070:30073 Coq.Init.Datatypes <> None constr
+R30078:30083 Cpdt.DataStruct <> NConst constr
+R30103:30106 Coq.Init.Datatypes <> Some constr
+R30109:30112 Coq.Init.Datatypes <> Some constr
+R29778:29778 Cpdt.DataStruct <> f var
+R29801:29804 Coq.Init.Datatypes <> None constr
+R29809:29810 Cpdt.DataStruct <> Eq constr
+R29842:29847 Cpdt.DataStruct <> NConst constr
+R29813:29816 Cpdt.DataStruct <> Plus constr
+R29830:29835 Cpdt.DataStruct <> NConst constr
+R29819:29824 Cpdt.DataStruct <> NConst constr
+R29868:29871 Coq.Init.Datatypes <> Some constr
+R29873:29876 Coq.Init.Datatypes <> None constr
+R29881:29882 Cpdt.DataStruct <> Eq constr
+R29914:29919 Cpdt.DataStruct <> NConst constr
+R29885:29888 Cpdt.DataStruct <> Plus constr
+R29902:29907 Cpdt.DataStruct <> NConst constr
+R29891:29896 Cpdt.DataStruct <> NConst constr
+R29940:29943 Coq.Init.Datatypes <> Some constr
+R29946:29949 Coq.Init.Datatypes <> Some constr
+def 30268:30278 <> type'Denote
+R30285:30289 Cpdt.DataStruct <> type' ind
+R30309:30309 Cpdt.DataStruct <> t var
+R30322:30324 Cpdt.DataStruct <> Nat constr
+R30329:30331 Coq.Init.Datatypes <> nat ind
+R30339:30342 Cpdt.DataStruct <> Bool constr
+R30347:30350 Coq.Init.Datatypes <> bool ind
+sec 30553:30556 <> cond
+var 30570:30570 cond A
+var 30590:30596 cond default
+R30600:30600 Cpdt.DataStruct <> cond.A var
+def 30615:30618 <> cond
+R30625:30627 Coq.Init.Datatypes <> nat ind
+R30632:30632 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R30647:30651 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R30652:30652 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R30664:30668 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R30669:30669 Cpdt.DataStruct <> cond.A var
+R30659:30662 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R30663:30663 Cpdt.DataStruct <> cond.A var
+R30653:30656 Cpdt.DataStruct <> ffin def
+R30658:30658 Cpdt.DataStruct <> n var
+R30639:30642 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R30643:30646 Coq.Init.Datatypes <> bool ind
+R30633:30636 Cpdt.DataStruct <> ffin def
+R30638:30638 Cpdt.DataStruct <> n var
+R30684:30684 Cpdt.DataStruct <> n var
+R30699:30699 Coq.Init.Datatypes <> O constr
+R30715:30721 Cpdt.DataStruct <> cond.default var
+R30731:30731 Coq.Init.Datatypes <> S constr
+R30770:30774 Cpdt.DataStruct <> tests var
+R30776:30779 Coq.Init.Datatypes <> None constr
+R30823:30826 Cpdt.DataStruct <> cond def
+R30897:30902 Cpdt.DataStruct <> bodies var
+R30905:30908 Coq.Init.Datatypes <> Some constr
+R30910:30912 Cpdt.DataStruct <> idx var
+R30855:30859 Cpdt.DataStruct <> tests var
+R30862:30865 Coq.Init.Datatypes <> Some constr
+R30867:30869 Cpdt.DataStruct <> idx var
+R30796:30801 Cpdt.DataStruct <> bodies var
+R30803:30806 Coq.Init.Datatypes <> None constr
+R30929:30932 Cpdt.DataStruct cond <> sec
+R30946:30949 Cpdt.DataStruct <> cond def
+R30946:30949 Cpdt.DataStruct <> cond def
+def 31588:31597 <> exp'Denote
+R31606:31609 Cpdt.DataStruct <> exp' ind
+R31611:31611 Cpdt.DataStruct <> t var
+R31616:31626 Cpdt.DataStruct <> type'Denote def
+R31628:31628 Cpdt.DataStruct <> t var
+R31641:31641 Cpdt.DataStruct <> e var
+R31654:31659 Cpdt.DataStruct <> NConst constr
+R31674:31677 Cpdt.DataStruct <> Plus constr
+R31701:31703 Coq.Init.Peano <> ::nat_scope:x_'+'_x not
+R31688:31697 Cpdt.DataStruct <> exp'Denote def
+R31704:31713 Cpdt.DataStruct <> exp'Denote def
+R31724:31725 Cpdt.DataStruct <> Eq constr
+R31745:31754 Coq.Arith.Peano_dec <> eq_nat_dec syndef
+R31773:31782 Cpdt.DataStruct <> exp'Denote def
+R31757:31766 Cpdt.DataStruct <> exp'Denote def
+R31803:31807 Coq.Init.Datatypes <> false constr
+R31793:31796 Coq.Init.Datatypes <> true constr
+R31816:31821 Cpdt.DataStruct <> BConst constr
+R31836:31839 Cpdt.DataStruct <> Cond constr
+R31893:31896 Cpdt.DataStruct <> cond def
+R31985:31994 Cpdt.DataStruct <> exp'Denote def
+R32004:32006 Cpdt.DataStruct <> idx var
+R31943:31952 Cpdt.DataStruct <> exp'Denote def
+R31961:31963 Cpdt.DataStruct <> idx var
+R31905:31914 Cpdt.DataStruct <> exp'Denote def
+sec 32374:32382 <> cfoldCond
+var 32396:32396 cfoldCond t
+R32400:32404 Cpdt.DataStruct <> type' ind
+var 32418:32424 cfoldCond default
+R32428:32431 Cpdt.DataStruct <> exp' ind
+R32433:32433 Cpdt.DataStruct <> cfoldCond.t var
+def 32448:32456 <> cfoldCond
+R32463:32465 Coq.Init.Datatypes <> nat ind
+R32474:32474 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R32494:32498 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R32499:32499 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R32516:32520 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R32521:32524 Cpdt.DataStruct <> exp' ind
+R32526:32526 Cpdt.DataStruct <> cfoldCond.t var
+R32506:32509 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R32510:32513 Cpdt.DataStruct <> exp' ind
+R32515:32515 Cpdt.DataStruct <> cfoldCond.t var
+R32500:32503 Cpdt.DataStruct <> ffin def
+R32505:32505 Cpdt.DataStruct <> n var
+R32481:32484 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R32485:32488 Cpdt.DataStruct <> exp' ind
+R32490:32493 Cpdt.DataStruct <> Bool constr
+R32475:32478 Cpdt.DataStruct <> ffin def
+R32480:32480 Cpdt.DataStruct <> n var
+R32541:32541 Cpdt.DataStruct <> n var
+R32556:32556 Coq.Init.Datatypes <> O constr
+R32572:32578 Cpdt.DataStruct <> cfoldCond.default var
+R32588:32588 Coq.Init.Datatypes <> S constr
+R32630:32634 Cpdt.DataStruct <> tests var
+R32636:32639 Coq.Init.Datatypes <> None constr
+R32667:32672 Cpdt.DataStruct <> BConst constr
+R32674:32677 Coq.Init.Datatypes <> true constr
+R32682:32687 Cpdt.DataStruct <> bodies var
+R32689:32692 Coq.Init.Datatypes <> None constr
+R32706:32711 Cpdt.DataStruct <> BConst constr
+R32713:32717 Coq.Init.Datatypes <> false constr
+R32722:32730 Cpdt.DataStruct <> cfoldCond def
+R32801:32806 Cpdt.DataStruct <> bodies var
+R32809:32812 Coq.Init.Datatypes <> Some constr
+R32814:32816 Cpdt.DataStruct <> idx var
+R32759:32763 Cpdt.DataStruct <> tests var
+R32766:32769 Coq.Init.Datatypes <> Some constr
+R32771:32773 Cpdt.DataStruct <> idx var
+R32858:32866 Cpdt.DataStruct <> cfoldCond def
+R32941:32946 Cpdt.DataStruct <> bodies var
+R32949:32952 Coq.Init.Datatypes <> Some constr
+R32954:32956 Cpdt.DataStruct <> idx var
+R32897:32901 Cpdt.DataStruct <> tests var
+R32904:32907 Coq.Init.Datatypes <> Some constr
+R32909:32911 Cpdt.DataStruct <> idx var
+R32981:32981 Cpdt.DataStruct <> e var
+R32986:32989 Cpdt.DataStruct <> exp' ind
+R33006:33009 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R33010:33013 Cpdt.DataStruct <> exp' ind
+R33015:33015 Cpdt.DataStruct <> t var
+R33000:33003 Cpdt.DataStruct <> exp' ind
+R33005:33005 Cpdt.DataStruct <> t var
+R33038:33041 Cpdt.DataStruct <> Cond constr
+R33102:33105 Cpdt.DataStruct <> Cond constr
+R33345:33347 Cpdt.DataStruct <> idx var
+R33386:33389 Coq.Init.Datatypes <> None constr
+R33394:33397 Cpdt.DataStruct <> body var
+R33431:33434 Coq.Init.Datatypes <> Some constr
+R33451:33453 Cpdt.DataStruct <> idx var
+R33163:33165 Cpdt.DataStruct <> idx var
+R33204:33207 Coq.Init.Datatypes <> None constr
+R33212:33216 Cpdt.DataStruct <> tests var
+R33218:33221 Coq.Init.Datatypes <> None constr
+R33255:33258 Coq.Init.Datatypes <> Some constr
+R33274:33276 Cpdt.DataStruct <> idx var
+R33124:33124 Coq.Init.Datatypes <> S constr
+R33126:33126 Cpdt.DataStruct <> n var
+R33562:33565 Cpdt.DataStruct <> Cond constr
+R33671:33671 Cpdt.DataStruct <> e var
+R33649:33652 Cpdt.DataStruct <> body var
+R33611:33615 Cpdt.DataStruct <> tests var
+R33617:33620 Coq.Init.Datatypes <> None constr
+R33690:33695 Cpdt.DataStruct <> bodies var
+R33697:33700 Coq.Init.Datatypes <> None constr
+R33728:33736 Cpdt.DataStruct cfoldCond <> sec
+R33750:33758 Cpdt.DataStruct <> cfoldCond def
+R33750:33758 Cpdt.DataStruct <> cfoldCond def
+def 33945:33949 <> cfold
+R33958:33961 Cpdt.DataStruct <> exp' ind
+R33963:33963 Cpdt.DataStruct <> t var
+R33968:33971 Cpdt.DataStruct <> exp' ind
+R33973:33973 Cpdt.DataStruct <> t var
+R33986:33986 Cpdt.DataStruct <> e var
+R33999:34004 Cpdt.DataStruct <> NConst constr
+R34011:34016 Cpdt.DataStruct <> NConst constr
+R34026:34029 Cpdt.DataStruct <> Plus constr
+R34057:34061 Cpdt.DataStruct <> cfold def
+R34086:34090 Cpdt.DataStruct <> cfold def
+R34115:34117 Cpdt.DataStruct <> e2' var
+R34110:34112 Cpdt.DataStruct <> e1' var
+R34126:34129 Cpdt.DataStruct <> exp' ind
+R34131:34133 Cpdt.DataStruct <> Nat constr
+R34150:34155 Cpdt.DataStruct <> NConst constr
+R34161:34166 Cpdt.DataStruct <> NConst constr
+R34174:34179 Cpdt.DataStruct <> NConst constr
+R34184:34186 Coq.Init.Peano <> ::nat_scope:x_'+'_x not
+R34209:34212 Cpdt.DataStruct <> Plus constr
+R34218:34220 Cpdt.DataStruct <> e2' var
+R34214:34216 Cpdt.DataStruct <> e1' var
+R34238:34239 Cpdt.DataStruct <> Eq constr
+R34267:34271 Cpdt.DataStruct <> cfold def
+R34296:34300 Cpdt.DataStruct <> cfold def
+R34325:34327 Cpdt.DataStruct <> e2' var
+R34320:34322 Cpdt.DataStruct <> e1' var
+R34336:34339 Cpdt.DataStruct <> exp' ind
+R34341:34344 Cpdt.DataStruct <> Bool constr
+R34361:34366 Cpdt.DataStruct <> NConst constr
+R34372:34377 Cpdt.DataStruct <> NConst constr
+R34385:34390 Cpdt.DataStruct <> BConst constr
+R34396:34405 Coq.Arith.Peano_dec <> eq_nat_dec syndef
+R34428:34432 Coq.Init.Datatypes <> false constr
+R34418:34421 Coq.Init.Datatypes <> true constr
+R34453:34454 Cpdt.DataStruct <> Eq constr
+R34460:34462 Cpdt.DataStruct <> e2' var
+R34456:34458 Cpdt.DataStruct <> e1' var
+R34481:34486 Cpdt.DataStruct <> BConst constr
+R34493:34498 Cpdt.DataStruct <> BConst constr
+R34508:34511 Cpdt.DataStruct <> Cond constr
+R34547:34555 Cpdt.DataStruct <> cfoldCond def
+R34634:34638 Cpdt.DataStruct <> cfold def
+R34648:34650 Cpdt.DataStruct <> idx var
+R34597:34601 Cpdt.DataStruct <> cfold def
+R34610:34612 Cpdt.DataStruct <> idx var
+R34564:34568 Cpdt.DataStruct <> cfold def
+prf 35012:35028 <> cfoldCond_correct
+R35052:35055 Cpdt.DataStruct <> exp' ind
+R35057:35057 Cpdt.DataStruct <> t var
+R35079:35082 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R35083:35086 Cpdt.DataStruct <> exp' ind
+R35088:35091 Cpdt.DataStruct <> Bool constr
+R35073:35076 Cpdt.DataStruct <> ffin def
+R35078:35078 Cpdt.DataStruct <> n var
+R35110:35113 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R35114:35117 Cpdt.DataStruct <> exp' ind
+R35119:35119 Cpdt.DataStruct <> t var
+R35104:35107 Cpdt.DataStruct <> ffin def
+R35109:35109 Cpdt.DataStruct <> n var
+R35168:35172 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R35125:35134 Cpdt.DataStruct <> exp'Denote def
+R35137:35145 Cpdt.DataStruct <> cfoldCond def
+R35161:35166 Cpdt.DataStruct <> bodies var
+R35155:35159 Cpdt.DataStruct <> tests var
+R35147:35153 Cpdt.DataStruct <> default var
+R35173:35182 Cpdt.DataStruct <> exp'Denote def
+R35185:35188 Cpdt.DataStruct <> Cond constr
+R35205:35211 Cpdt.DataStruct <> default var
+R35198:35203 Cpdt.DataStruct <> bodies var
+R35192:35196 Cpdt.DataStruct <> tests var
+R35190:35190 Cpdt.DataStruct <> n var
+R35306:35309 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R35306:35309 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R35323:35326 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R35323:35326 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R35413:35416 Coq.Init.Datatypes <> Some constr
+R35418:35420 Cpdt.DataStruct <> idx var
+R35382:35385 Coq.Init.Datatypes <> Some constr
+R35387:35389 Cpdt.DataStruct <> idx var
+R35505:35510 Cpdt.DataStruct <> NConst constr
+R35505:35510 Cpdt.DataStruct <> NConst constr
+R35413:35416 Coq.Init.Datatypes <> Some constr
+R35418:35420 Cpdt.DataStruct <> idx var
+R35382:35385 Coq.Init.Datatypes <> Some constr
+R35387:35389 Cpdt.DataStruct <> idx var
+prf 36237:36244 <> cond_ext
+R36276:36276 Cpdt.DataStruct <> A var
+R36303:36306 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R36307:36310 Coq.Init.Datatypes <> bool ind
+R36297:36300 Cpdt.DataStruct <> ffin def
+R36302:36302 Cpdt.DataStruct <> n var
+R36339:36342 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R36343:36343 Cpdt.DataStruct <> A var
+R36333:36336 Cpdt.DataStruct <> ffin def
+R36338:36338 Cpdt.DataStruct <> n var
+R36349:36349 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R36384:36390 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R36391:36391 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R36428:36434 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R36460:36464 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R36435:36438 Cpdt.DataStruct <> cond def
+R36454:36459 Cpdt.DataStruct <> bodies var
+R36448:36452 Cpdt.DataStruct <> tests var
+R36440:36446 Cpdt.DataStruct <> default var
+R36465:36468 Cpdt.DataStruct <> cond def
+R36485:36491 Cpdt.DataStruct <> bodies' var
+R36478:36483 Cpdt.DataStruct <> tests' var
+R36470:36476 Cpdt.DataStruct <> default var
+R36414:36416 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R36404:36409 Cpdt.DataStruct <> bodies var
+R36411:36413 Cpdt.DataStruct <> idx var
+R36417:36423 Cpdt.DataStruct <> bodies' var
+R36425:36427 Cpdt.DataStruct <> idx var
+R36371:36373 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R36362:36366 Cpdt.DataStruct <> tests var
+R36368:36370 Cpdt.DataStruct <> idx var
+R36374:36379 Cpdt.DataStruct <> tests' var
+R36381:36383 Cpdt.DataStruct <> idx var
+prf 36688:36700 <> cfold_correct
+R36718:36721 Cpdt.DataStruct <> exp' ind
+R36723:36723 Cpdt.DataStruct <> t var
+R36749:36751 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R36729:36738 Cpdt.DataStruct <> exp'Denote def
+R36741:36745 Cpdt.DataStruct <> cfold def
+R36747:36747 Cpdt.DataStruct <> e var
+R36752:36761 Cpdt.DataStruct <> exp'Denote def
+R36763:36763 Cpdt.DataStruct <> e var
+R36799:36815 Cpdt.DataStruct <> cfoldCond_correct thm
+R36923:36927 Cpdt.DataStruct <> cfold def
+R36923:36927 Cpdt.DataStruct <> cfold def
+R36952:36956 Cpdt.DataStruct <> cfold def
+R36952:36956 Cpdt.DataStruct <> cfold def
+R36952:36956 Cpdt.DataStruct <> cfold def
+R36952:36956 Cpdt.DataStruct <> cfold def
+R36952:36956 Cpdt.DataStruct <> cfold def
+R36799:36815 Cpdt.DataStruct <> cfoldCond_correct thm
